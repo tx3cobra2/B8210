@@ -67,7 +67,8 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOIj3xdCYCZWFF9PmI0_SEnaOhixxnUAN6CCrjTiiVQ-oCr2EA-mMqEOUf534IswTOQ&usqp=CAU" group-title="MALAYSIA",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
+http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
+<!--#http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest/scale-to-width-down/293?cb=20190111152445",Astro Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1 tvg-id="Astro Warna.my" tvg-name="AstroWarna.my" tvg-logo=https://i.postimg.cc/L4chmgTD/download-80.png" group-title="MALAYSIA" ,Astro Warna 
