@@ -1583,8 +1583,8 @@ http://212.102.60.76/n2/mono.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/IytaaVV.jpg" group-title="Movie",Hallmark Movies & Mysteries
 #http://212.102.60.76/q2/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/BabyTV.png/270px-BabyTV.png" group-title="Kids Until 30 September 2021", BABY TV
-http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+<!--#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/BabyTV.png/270px-BabyTV.png" group-title="Kids Until 30 September 2021", BABY TV
+<!--http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
 
 //// TV Mandarin ////
 
