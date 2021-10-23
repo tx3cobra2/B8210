@@ -51,8 +51,8 @@ https://rtm7hdhbbtv.secureswiftcontent.com/Origin3/ngrp:RTM3/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Okey" tvg-logo="https://i.ibb.co/bbVfKQT/ae.png" group-title="MALAYSIA",Okey
 https://rtm2hdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8
 #EXTINF:-1 tvg-id="Awesome" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="MALAYSIA",Awesome TV
+#http://iptv.tvmalaysia.cc:80/297340/297340/9016
 http://50.7.17.176:61980/myplay/c_58014/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-<!-----------------http://iptv.tvmalaysia.cc:80/297340/297340/9016
 #EXTINF:-1 tvg-ID="dramasangat.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="MY",DRAMA SANGAT
 https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3u8
 #EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Alhijrah" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="MALAYSIA",Alhijrah
