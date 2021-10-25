@@ -680,7 +680,9 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 //// Astro Sport ////
 
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",CHANNEL SPORT MALAYSIA
-https://www.youtube.com/channel/UCHkI-mTPYoudubEVKOuo5Pw/videos 
+https://www.youtube.com/channel/UCHkI-mTPYoudubEVKOuo5Pw/videos
+#EXTINF:-1 tvg-id="RTM SPORT" tvg-name="RTM SPORT" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/RTM_HD_Sports.png/450px-RTM_HD_Sports.png" tvg-url="" group-title="SPORT",RTM sport
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo = "https://www.dropbox.com/s/2ftc484hfwu230l/FightBox.png?dl=1", FIGHT BOX
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 <!--#EXTINF:-1 group-title="SPORT" tvg-logo = "https://www.dropbox.com/s/lz1saqscj4246qz/wwe.jpg?dl=1", WWE
