@@ -410,8 +410,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-id="VISION PRIME" tvg-name="VISION PRIME" tvg-logo="https://i.postimg.cc/FHxc0YSy/VISION-PRIME.png" group-title="Movies2",VISION PRIME [VSN+]
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-<!--------#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qdr8kvTz/FMN.png" group-title="Movies2",FMN [VSN+]
-<!--------https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qdr8kvTz/FMN.png" group-title="Movies2",FMN
 #http://iptvtree.net:8080/Ainamanja/6a4fef36/165057
 
@@ -447,8 +445,6 @@ https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m
 #EXTINF:-1 tvg-id="BFlixHD" tvg-name="BFlixHD" tvg-logo="https://i.postimg.cc/PfwJ92zT/bflix.png" group-title="Hindi",BFlix HD
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="zbioskop" tvg-logo="https://i.postimg.cc/wMLhZSTr/logo-zbioskop-big1.png" group-title="Hindi",ZEEBIOSKOP [Dens]
-http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Nmgmncc/B4-U-KADAK.png" group-title="Hindi",B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkYGN9Yz/ZEE-BOLLYWOOD.png" group-title="Hindi",ZEE BOLLYWOOD
