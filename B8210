@@ -410,9 +410,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-id="VISION PRIME" tvg-name="VISION PRIME" tvg-logo="https://i.postimg.cc/FHxc0YSy/VISION-PRIME.png" group-title="Movies2",VISION PRIME [VSN+]
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qdr8kvTz/FMN.png" group-title="Movies2",FMN
-#http://iptvtree.net:8080/Ainamanja/6a4fef36/165057
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="IMC" tvg-name="IMC" tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="Movies2",IMC
@@ -447,30 +444,9 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Nmgmncc/B4-U-KADAK.png" group-title="Hindi",B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkYGN9Yz/ZEE-BOLLYWOOD.png" group-title="Hindi",ZEE BOLLYWOOD
-#http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/16
-https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNL1q1bZ/ZEE-CAFE.png" group-title="Hindi",ZEE CAFE
-#http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/18
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mDxPyLDy/ZEECINEMA.png" group-title="Hindi",ZEE CINEMA [VSN+]
-#https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mDxPyLDy/ZEECINEMA.png" group-title="Hindi",ZEE CINEMA
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mDQtdv1f/zeetv.png" group-title="Hindi",ZEE TV [VSN+]
-#https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhTyTxXs/zing.png" group-title="Hindi",ZING [Vidio]
-#https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6747_480p/index.m3u8
-#https://znjjprwzgeyyp.vidio.com/live/6747/master.m3u8
-#http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-6747
-#https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/6747-zing
-#https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=6747
-#https://newlivetv.my.id/vidio/6747-LiveTV.m3u8?livetv
-http://gpc.my.id/vidio/zing.m3u8
+
+#EXTINF:-1 tvg-id="251" tvg-name="BollyOne HD" tvg-logo="https://i.ibb.co/F0ftsHB/bollyone.png" group-title="Hindi",BollyOne HD (CH251)
+http://50.7.161.82:8277/streams/d/bollyone_pye/playlist.m3u8
 
 
 
