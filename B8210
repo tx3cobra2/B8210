@@ -3444,7 +3444,25 @@ https://p2p-ns1.sage.stream/hls/the-binding-2020-sub/index.m3u8
 #EXTINF:0 type="video" channelId="-1" group="Horror" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbK1UVKL60FVjg_dfqM6g5rediFZEQ4MWEXA&usqp=CAU", Nocturne (2020) สมุดปริศนาเพื่อนร่วมห้อง (ซับไทย)
 https://p2p-ns1.sage.stream/hls/nocturne-2020-sub/index.m3u8
 
+////movie 2021////
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQxMjVkZjEtMDQxYy00MGIwLWE1NjYtYzZkZmU1NTFlZGFlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="VOD 2021", The Conjuring : The Devil Made Me Do It (2021)
+http://admin.nf21.net/go/files/19354
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI5YTUxOWEtZmRiZS00ZmQxLWE2NzctYTRiODA2NzE1ZjczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="VOD 2021", Cruella (2021)
+http://admin.nf21.net/go/files/19286
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QxZDcxOTQtNzljYi00YWRhLThkYjItNzJkMmUxZDJhMjA4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="VOD 2021", Seance (2021)
+http://admin.nf21.net/go/files/19109
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzJhZGMwMDMtNzgwYS00OWJiLWFjM2ItYWYxM2E0YTMzMzg1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="VOD 2021", The Djinn (2021)
+http://admin.nf21.net/go/files/18809
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY0NzgzYzctYWQwMC00MzM2LThjNGMtZjFjMWUyNzg0ZmM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" group-title="VOD 2021", Army of the Dead (2021)
+http://admin.nf21.net/go/files/19051
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY0NzgzYzctYWQwMC00MzM2LThjNGMtZjFjMWUyNzg0ZmM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" group-title="VOD 2021", Nelly Rapp Monster Agent
+https://gm21.top/nelly-rapp-monster-agent/
 
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Testing", CGTN DOCUMENTARY
