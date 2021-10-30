@@ -438,6 +438,20 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4af2ffa9506ab29cf38c
 #EXTINF:-1 tvg-country="US" tvg-logo="https://i.pinimg.com/736x/34/99/32/349932718354102cf22b2e567cbd143f.jpg" group-title="Movies3",Ghost Hunter
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f27bbe4779de70007a6d1c1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-id="713" tvg-name="Paramount Network FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/448_144.png" group-title="Movies3",Paramount Network FHD [ITALIAN DUB] (713)
+http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/32
+
+////Movie 4////
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Movies4",MOVIES GROUP 4
+#http://tx2play1.douyucdn.cn/live/562225rV4UNAU64f_4000p.xs?uuid=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Movies4",MOVIES GROUP 5
+#http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Movies4",MOVIES GROUP 6
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010211/150/01.m3u8?&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=34118fd72bb9dd3695e667df26df015c
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Movies4",MOVIES GROUP 7
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000744/150/index.m3u8?&encrypt=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Movies4",MOVIES GROUP 8
+https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
 
 ///// Hindi /////
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -515,14 +529,10 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365e
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/afn.png" group-title="Lifestyle",AFN
-#https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-<!-------https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 
-
-<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-<!--#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Lifestyle",Food Network
-<!--http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+#EXTINF:0 tvg-id="708" tvg-name="Food Network HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" group-title="Lifestyle",Food Network HD [CHINESE SUB] (708)
+http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -533,9 +543,6 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/fmn.png" group-title="Lifestyle",FMN
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
-
-#EXTINF:0 group-title="Lifestyle" tvg-id="EPG N/A" tvg-name="Outdoor HD" tvg-logo="https://i.imgur.com/DiHUL9p.png" ,,Outdoor HD
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
