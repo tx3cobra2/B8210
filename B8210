@@ -2555,6 +2555,44 @@ https://cdn3ii.diebutx.com/own2hls/2020/d169147a60484e39fedcb7f3481f6f0e/540p/in
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xfWac8MTYDxujaxgPVcRD9yZaul.jpg" group-title="VOD 2021", Doctor Strange (2016)
 http://srv19.nf21.net:80/files/10-2018-08-03-2d8f006fa85f4d9bae69d108e45c9e95.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="Black Widow (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg" group-title="VOD 2021",Black Widow (2021)
+https://link.zozotv.xyz:443/movie/Freemium4/unlimited99/301.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Radhe: Your Most Wanted Bhai (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3l7FGKHDanLhEI1ECdmzK9LnJrj.jpg" group-title="VOD 2021",Radhe: Your Most Wanted Bhai (2021)
+https://link.zozotv.xyz:443/movie/Freemium4/unlimited99/243.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Ripper Untold (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpELyqPFcAhpyaCRFnoUEpQrqZU.jpg" group-title="VOD 2021",Ripper Untold (2021)
+https://link.zozotv.xyz:443/movie/Freemium4/unlimited99/228.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Jungle Run (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qz8G0DcgLUkJSbLU5YpzQYlOnb.jpg" group-title="VOD 2021",Jungle Run (2021)
+https://link.zozotv.xyz:443/movie/Freemium4/unlimited99/230.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="River (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3uDFq30KZhosZ5BzRs3RnDzdtSK.jpg" group-title="VOD 2021",River (2021)
+https://link.zozotv.xyz:443/movie/Freemium4/unlimited99/333.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="F9 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg" group-title="VOD 2021",F9 (2021)
+https://link.zozotv.xyz:443/movie/Freemium4/unlimited99/339.mp4
+
+
+
+//// Malay VOD////
+#EXTINF:-1 tvg-id="" tvg-name="Sebelum Iblis Menjemput - Ayat 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2eF7XX8Xgjsu5Td4eMVNf1F888.jpg" group-title="MALAY VOD",Sebelum Iblis Menjemput - Ayat 2 (2020)
+https://link.zozotv.xyz:443/movie/Freemium4/unlimited99/221.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="10 Tips Tipu Bini (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcPt0wIkXyuDV2ZjrDs1Hk79KAj.jpg" group-title="MALAY VOD",10 Tips Tipu Bini (2021)
+https://link.zozotv.xyz:443/movie/Freemium4/unlimited99/219.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="18 Puasa Di Kampong Pisang (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPSZCJr2Hom3DRVCuto1rVrh2h.jpg" group-title="MALAY VOD",18 Puasa Di Kampong Pisang (2021)
+https://link.zozotv.xyz:443/movie/Freemium4/unlimited99/213.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Kampong Pisang Musikal Raya Istimewa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cus8hc9UBt9EdyDOZ0Hiv83NRU7.jpg" group-title="MALAY VOD",Kampong Pisang Musikal Raya Istimewa (2021)
+https://link.zozotv.xyz:443/movie/Freemium4/unlimited99/211.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Masuk Jawi (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dC0x7Bb5Q6vg3aHSKlHs7p15Hxu.jpg" group-title="MALAY VOD",Masuk Jawi (2021)
+https://link.zozotv.xyz:443/movie/Freemium4/unlimited99/205.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Malik 2021" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzJlOTYyMTAtZDRmZC00OTllLTgzNTUtYjFiOWYxMDQ1YTJiXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg" group-title="MALAY VOD",Malik 2021
+https://link.zozotv.xyz:443/movie/Freemium4/unlimited99/329.mp4
 
 
 //// Mr Bean ////
@@ -2915,7 +2953,19 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959701
 #EXTINF:-1 group-title="VOD | WARKOP DKI" tvg-logo="https://image.tmdb.org/t/p/w200//52x4es5B6G2TGH6XH7CWXdpxNPH.jpg" ,Salah Masuk (1993)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959700
 
-
+//// Loki ////
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/gxh0k3aADsYkt9tgkfm2kGn2qQj.jpg" group-title="LOKI",Loki S01 E01
+https://link.zozotv.xyz:443/series/Freemium4/unlimited99/308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/gqpcfkdmSsm6xiX2EsLkwUvA8g8.jpg" group-title="LOKI",Loki S01 E02
+https://link.zozotv.xyz:443/series/Freemium4/unlimited99/309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/aTjfWml9Prd8cUB9cfk8yOAEh7v.jpg" group-title="LOKI",Loki S01 E03
+https://link.zozotv.xyz:443/series/Freemium4/unlimited99/310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/niIXLqEr98mnQuYuMuEvq9Y6OQa.jpg" group-title="LOKI",Loki S01 E04
+https://link.zozotv.xyz:443/series/Freemium4/unlimited99/311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/5fRAAO13URmteku8mb39V9YPJBb.jpg" group-title="LOKI",Loki S01 E05
+https://link.zozotv.xyz:443/series/Freemium4/unlimited99/312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/98hGgYbNFP8GnZhJzAar22bWIAT.jpg" group-title="LOKI",Loki S01 E06
+https://link.zozotv.xyz:443/series/Freemium4/unlimited99/313.mp4
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Testing", CGTN DOCUMENTARY
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
