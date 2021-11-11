@@ -2546,6 +2546,8 @@ https://cdn3ii.diebutx.com/own2hls/2020/d169147a60484e39fedcb7f3481f6f0e/540p/in
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xfWac8MTYDxujaxgPVcRD9yZaul.jpg" group-title="VOD 2021", Doctor Strange (2016)
 http://srv19.nf21.net:80/files/10-2018-08-03-2d8f006fa85f4d9bae69d108e45c9e95.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xfWac8MTYDxujaxgPVcRD9yZaul.jpg" group-title="VOD 2021", My Little Pony: Una nueva generación (2021)
+http://50.7.66.234:8080/movie/alexi/1234/1116592.mkv
 
 //// Mr Bean ////
 #EXTINF:-1 group-title="VOD | Mr BEAN SERIAL" tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" ,EP01 - Si Kocak yang Legendaris
