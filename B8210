@@ -350,8 +350,8 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Movies2",MAHA MOVIE
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/448_144.png" group-title="Movies2",SY FY
-http://51.79.82.231:8080/US_SYFY_EAST_USA/video.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/448_144.png" group-title="Movies2",BOX FILM
+http://61.19.242.134/feed/202105171329/LC52/index.m3u8
 
 #EXTINF:-1 tvg-id="SCREAMFEST" tvg-name="SCREAMFEST" tvg-logo="" group-title="Movies2",SCREAMFEST
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
@@ -378,6 +378,7 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="IMC" tvg-name="IMC" tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="Movies2",IMC
+http://210.210.155.35:80/uq2663/h/h155/S4/mnf.m3u8
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=imc
 https://www.dropbox.com/s/us0kp0pp52mjfc0/imc.m3u8?dl=1
 
