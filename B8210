@@ -348,10 +348,10 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 ///// Movie2 /////
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Movies2",HBO PLUS
-http://50.7.66.234:8080/alexi/1234/4003
+http://50.7.66.234:8080/alexi/1234/8222
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/448_144.png" group-title="Movies2",PARAMOUNT CHANNEL
-http://50.7.66.234:8080/alexi/1234/2952
+http://50.7.66.234:8080/alexi/1234/22381
 
 #EXTINF:-1 tvg-id="SCREAMFEST" tvg-name="SCREAMFEST" tvg-logo="" group-title="Movies2",SCREAMFEST
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
