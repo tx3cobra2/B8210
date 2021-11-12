@@ -2557,18 +2557,43 @@ https://www.googleapis.com/drive/v3/files/1HNEmsRA4KQqIP7Gtt23Yt1qXNsEIlwvn?alt=
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/7qz8G0DcgLUkJSbLU5YpzQYlOnb.jpg" group-title="VOD 2021", Jungle Run
 https://www.googleapis.com/drive/v3/files/15eJky7XqODWlwEVjEmChcxRvviE9fpfw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JvYfdwT/Unstoppable-2018.jpg" group-title="VOD 2021", Unstoppable(2018)
+https://www.googleapis.com/drive/v3/files/1gy3U1j9VZAi1uIZwOk4xYLiRUbxtFqoE?alt=media&key=AIzaSyDiIW45Qm9LyIgGDXMCw-46MeYQvWYVJ8c
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fQkTN63/Film-Pokemon-Detective-Pikachu-2019-4.png" group-title="VOD 2021", PokemonDetectivePikachu(2019)
+https://www.dropbox.com/s/tm3v0cjd5fyzigv/Pokemon.Detective.Pikachu.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRjt3CS/Birds-of-Prey-2020.jpg" group-title="VOD 2021", BirdsofPrey(2020)
+https://www.googleapis.com/drive/v3/files/1tXkZqjHTPEhU5kavx5UQa7eCY2Ud6Ggv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0n2vzgf/Disturbing-the-Peace-2020.jpg" group-title="VOD 2021", DisturbingthePeace(2020)
+https://www.googleapis.com/drive/v3/files/1HPtYkaa0sE-WmyzZS3YJdc4EYJI6C4H1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 //// Malay VOD ////
 #EXTINF:-1 tvg-logo="https://content1.jdmagicbox.com/comp/jd_social/news/2020feb12/image-435292-n44ck2nc90.jpg?fit=around|210:308&crop=210:308;*,*" group-title="MALAYINDO", JAGA POCONG (2018)
 https://www.googleapis.com/drive/v3/files/1A8eGJeRDuqtrfJL8l9eMBxf8pNVoE54D?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
+#EXTINF:-1 tvg-logo="https://www.imdb.com/title/tt11768034/mediaviewer/rm4214012673/?ref_=tt_ov_i" group-title="MALAYINDO", The Secret Suster Ngesot Urban Legend (2018)
+http://srv21.nf21.net:80/files/15-2018-10-13-820280bd87facc3cb2ea0cb5297764c0.mkv
 
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/5cbc90ccc78e752577ffae0fb63e6975.jpg" group-title="MALAYINDO", Kampong Pisang Musikal Raya Istimewa (2021)
+http://iptv.tvmalaysia.cc/movie/jalan8/jalan8/8976.mp4
+
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc/images/c0a1e1b1488da9041372249c69cca4ab.jpg" group-title="MALAYINDO", Arwah Pak Mat, Lif & AJK (2021)
+http://iptv.tvmalaysia.cc/movie/jalan8/jalan8/8975.mp4
 
 //// HINDI VOD///
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Tvwmsu4ihzDiltXxPWI4RwTF3W.jpg" group-title="HINDI VOD", Bhoothnath (2008)
 https://streamtape.com/v/6W0jGDOpRMclZb/Bhoothnath.2008.720p.NF.WEB-DL.x264.PENCURiMOViE.CYOU.mkv
+
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ZD7k2wY.jpg" group-title="HINDI VOD", Bajrangi Bhaijaan (2015)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960996
+
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/462.jpg" group-title="HINDI VOD", HOTEL MUMBAI (2019)
+https://www.googleapis.com/drive/v3/files/1zjA2HtHFux9g2YFDzK_KmNZu4D2dD7DW?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j267YqLvKAHeyykTflxzpgVgviQ.jpg" group-title="HINDI VOD", Veer-Zaara (2004)
-http://iptv.tvmalaysia.cc/movie/penang172/penang172/7317.mp4
+http://iptv.tvmalaysia.cc/movie/jalan8/jalan8/7317.mp4
 
 //// Mr Bean ////
 #EXTINF:-1 group-title="VOD | Mr BEAN SERIAL" tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" ,EP01 - Si Kocak yang Legendaris
