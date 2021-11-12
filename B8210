@@ -2579,8 +2579,8 @@ https://www.googleapis.com/drive/v3/files/1O2v28ZxuXy6Ehr73a7h9JCDBp5tpMkmE?alt=
 https://www.googleapis.com/drive/v3/files/1jewz09GVvcEyBxiIpgElR9KkCTVrL8wG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 //// Malay VOD ////
-#EXTINF:-1 tvg-logo="" group-title="MALAYINDO", Arus Merah (2020)
-https://cdn2ii.diebutx.com/own2hls/2020/0b28f5e3f288a5a17b6489bc950133c1/540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/2ndcesyj5mnx3qz/IMG_20200619_141500_526.jpg?dl=0" group-title="MALAYINDO", JAGA POCONG (2018)
+https://bitball.b-cdn.net/movies/02-14-2020/Jaga.Pocong.2018.HDTC.720p.FMZM.mp4
 #EXTINF:-1 tvg-logo="" group-title="MALAYINDO", The Secret Suster Ngesot Urban Legend (2018)
 http://srv21.nf21.net/files/15-2018-10-13-820280bd87facc3cb2ea0cb5297764c0.mkv
 #EXTINF:-1 tvg-logo="" group-title="MALAYINDO", SESAT (2018)
