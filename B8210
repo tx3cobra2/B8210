@@ -2551,6 +2551,9 @@ https://cdn3ii.diebutx.com/own2hls/2020/d169147a60484e39fedcb7f3481f6f0e/540p/in
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xfWac8MTYDxujaxgPVcRD9yZaul.jpg" group-title="VOD 2021", Doctor Strange (2016)
 http://srv19.nf21.net:80/files/10-2018-08-03-2d8f006fa85f4d9bae69d108e45c9e95.mp4
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R6xZCtc/Sonic-the-Hedgehog-2020.jpg" group-title="VOD 2021", Sonic the Hedgehog (2020)
+https://www.googleapis.com/drive/v3/files/1HNEmsRA4KQqIP7Gtt23Yt1qXNsEIlwvn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlJ8nDhMhCYJuzOw3f52CP1W8MW.jpg" group-title="VOD 2021", The SpongeBob Movie: Sponge on the Run (2020)
 http://iptv.tvmalaysia.cc/movie/737373/737373/338.mp4
 
