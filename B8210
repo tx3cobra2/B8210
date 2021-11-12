@@ -2557,9 +2557,6 @@ https://www.googleapis.com/drive/v3/files/1HNEmsRA4KQqIP7Gtt23Yt1qXNsEIlwvn?alt=
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/7qz8G0DcgLUkJSbLU5YpzQYlOnb.jpg" group-title="VOD 2021", Jungle Run
 https://www.googleapis.com/drive/v3/files/15eJky7XqODWlwEVjEmChcxRvviE9fpfw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JvYfdwT/Unstoppable-2018.jpg" group-title="VOD 2021", Unstoppable(2018)
-#https://www.googleapis.com/drive/v3/files/1gy3U1j9VZAi1uIZwOk4xYLiRUbxtFqoE?alt=media&key=AIzaSyDiIW45Qm9LyIgGDXMCw-46MeYQvWYVJ8c
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fQkTN63/Film-Pokemon-Detective-Pikachu-2019-4.png" group-title="VOD 2021", PokemonDetectivePikachu(2019)
 https://www.dropbox.com/s/tm3v0cjd5fyzigv/Pokemon.Detective.Pikachu.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
 
@@ -2582,15 +2579,11 @@ http://iptv.tvmalaysia.cc/movie/jalan8/jalan8/8976.mp4
 #EXTINF:-1 tvg-logo="http://tvmalaysia.cc/images/c0a1e1b1488da9041372249c69cca4ab.jpg" group-title="MALAYINDO", Arwah Pak Mat, Lif & AJK (2021)
 http://iptv.tvmalaysia.cc/movie/jalan8/jalan8/8975.mp4
 
-////home alone vod ///
-#EXTINF:-1 tvg-logo="https://ibb.co/W3LKg0n" group-title="Homealone", Home Alone (1990) Indo Dubbed
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188048052
+////korean vod ///
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JvYfdwT/Unstoppable-2018.jpg" group-title="VOD 2021", Unstoppable(2018)
+#https://www.googleapis.com/drive/v3/files/1gy3U1j9VZAi1uIZwOk4xYLiRUbxtFqoE?alt=media&key=AIzaSyDiIW45Qm9LyIgGDXMCw-46MeYQvWYVJ8c
 
-#EXTINF:-1 tvg-logo="https://ibb.co/W3LKg0n" group-title="Homealone", Home Alone 2 (1992) Indo Dubbed
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188048053
 
-#EXTINF:-1 tvg-logo="https://ibb.co/W3LKg0n" group-title="Homealone", Home Alone 3 (1997) Indo Dubbed
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188048054
 
 //// HINDI VOD///
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Tvwmsu4ihzDiltXxPWI4RwTF3W.jpg" group-title="HINDI VOD", Bhoothnath (2008)
