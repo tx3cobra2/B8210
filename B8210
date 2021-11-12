@@ -2567,8 +2567,8 @@ https://www.googleapis.com/drive/v3/files/1tXkZqjHTPEhU5kavx5UQa7eCY2Ud6Ggv?alt=
 #EXTINF:-1 tvg-logo="https://content1.jdmagicbox.com/comp/jd_social/news/2020feb12/image-435292-n44ck2nc90.jpg?fit=around|210:308&crop=210:308;*,*" group-title="MALAYINDO", JAGA POCONG (2018)
 https://www.googleapis.com/drive/v3/files/1A8eGJeRDuqtrfJL8l9eMBxf8pNVoE54D?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/5cbc90ccc78e752577ffae0fb63e6975.jpg" group-title="MALAYINDO", Kampong Pisang Musikal Raya Istimewa (2021)
-http://iptv.tvmalaysia.cc/movie/jalan8/jalan8/8976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kampong Pisang Musikal Raya Istimewa (2021)" tvg-logo="http://tvmalaysia.cc:80/images/5cbc90ccc78e752577ffae0fb63e6975.jpg" group-title="MALAYINDO",Kampong Pisang Musikal Raya Istimewa (2021)
+http://iptv.tvmalaysia.cc:80/movie/jalan8/jalan8/8976.mp4
 
 #EXTINF:-1 tvg-logo="http://tvmalaysia.cc/images/c0a1e1b1488da9041372249c69cca4ab.jpg" group-title="MALAYINDO", Arwah Pak Mat, Lif & AJK (2021)
 http://iptv.tvmalaysia.cc/movie/jalan8/jalan8/8975.mp4
