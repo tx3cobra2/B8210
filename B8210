@@ -2551,8 +2551,51 @@ https://cdn3ii.diebutx.com/own2hls/2020/d169147a60484e39fedcb7f3481f6f0e/540p/in
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xfWac8MTYDxujaxgPVcRD9yZaul.jpg" group-title="VOD 2021", Doctor Strange (2016)
 http://srv19.nf21.net:80/files/10-2018-08-03-2d8f006fa85f4d9bae69d108e45c9e95.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xfWac8MTYDxujaxgPVcRD9yZaul.jpg" group-title="VOD 2021", My Little Pony: Una nueva generación (2021)
-http://50.7.66.234:8080/movie/alexi/1234/1116592.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlJ8nDhMhCYJuzOw3f52CP1W8MW.jpg" group-title="VOD 2021", The SpongeBob Movie: Sponge on the Run (2020)
+http://iptv.tvmalaysia.cc/movie/penang172/penang172/338.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vn7sNO6CD8FBHBEVcOiNv08mjy1.jpg" group-title="VOD 2021", Bigfoot Family (2020)
+http://iptv.tvmalaysia.cc/movie/penang172/penang172/339.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7EYDfGgNEF1IQymS7EvDLKnpxT.jpg" group-title="VOD 2021", Nightmare Radio (2020)
+http://iptv.tvmalaysia.cc/movie/penang172/penang172/6665.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CbeEC1m7J4IDJIo0sFQYOhDFuf.jpg" group-title="VOD 2021", Clownery (2020)
+http://iptv.tvmalaysia.cc/movie/penang172/penang172/6669.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vFCHFVLPcU4M8uNXM1ba9y83Iu.jpg" group-title="VOD 2021", Nobody Sleeps in the Woods Tonight (2020)
+http://iptv.tvmalaysia.cc/movie/penang172/penang172/6677.mp4
+
+
+//// Movie2021 2 ////
+#EXTINF:-1 tvg-logo="" group-title="VOD 2021/2", Jungle Run
+https://www.googleapis.com/drive/v3/files/15eJky7XqODWlwEVjEmChcxRvviE9fpfw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="" group-title="VOD 2021/2", Jungle Cruise
+https://www.googleapis.com/drive/v3/files/1O2v28ZxuXy6Ehr73a7h9JCDBp5tpMkmE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="" group-title="VOD 2021/2", Black Widow
+https://www.googleapis.com/drive/v3/files/1jewz09GVvcEyBxiIpgElR9KkCTVrL8wG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+//// Malay VOD ////
+#EXTINF:-1 tvg-logo="" group-title="MALAYINDO", The Secret Suster Ngesot Urban Legend (2018)
+http://srv21.nf21.net/files/15-2018-10-13-820280bd87facc3cb2ea0cb5297764c0.mkv
+#EXTINF:-1 tvg-logo="" group-title="MALAYINDO", SESAT (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959916
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1T5qFb3bAUQEVVfQeBk82sGI7l.jpg" group-title="MALAYINDO", Paku Pontianak (2013)
+http://iptv.tvmalaysia.cc/movie/penang172/penang172/7007.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9vEMgw1Y7nG6gO1Zf516eAbVe5.jpg" group-title="MALAYINDO", Upin & Ipin: Keris Siamang Tunggal (2019)
+http://iptv.tvmalaysia.cc/movie/penang172/penang172/7141.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcPt0wIkXyuDV2ZjrDs1Hk79KAj.jpg" group-title="MALAYINDO", 10 Tips Tipu Bini (2021)
+http://iptv.tvmalaysia.cc/movie/penang172/penang172/7308.mkv
+#EXTINF:-1 tvg-logo="" group-title="MALAYINDO", 18 Puasa Di Kampung Pisang
+http://iptv.tvmalaysia.cc/movie/penang172/penang172/7334.mkv
+#EXTINF:-1 tvg-logo="" group-title="MALAYINDO", Kampong Pisang Musikal Raya Istimewa (2021)
+http://iptv.tvmalaysia.cc/movie/penang172/penang172/8976.mp4
+
+//// HINDI VOD///
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Tvwmsu4ihzDiltXxPWI4RwTF3W.jpg" group-title="HINDI VOD", Bhoothnath (2008)
+http://iptv.tvmalaysia.cc/movie/penang172/penang172/6567.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j267YqLvKAHeyykTflxzpgVgviQ.jpg" group-title="HINDI VOD", Veer-Zaara (2004)
+http://iptv.tvmalaysia.cc/movie/penang172/penang172/7317.mp4
 
 //// Mr Bean ////
 #EXTINF:-1 group-title="VOD | Mr BEAN SERIAL" tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" ,EP01 - Si Kocak yang Legendaris
