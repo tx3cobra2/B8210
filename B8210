@@ -2563,25 +2563,52 @@ https://www.dropbox.com/s/tm3v0cjd5fyzigv/Pokemon.Detective.Pikachu.2019.720p.Bl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRjt3CS/Birds-of-Prey-2020.jpg" group-title="VOD 2021", BirdsofPrey(2020)
 https://www.googleapis.com/drive/v3/files/1tXkZqjHTPEhU5kavx5UQa7eCY2Ud6Ggv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
+/// VOD 2020-2021 ////
+#EXTINF:-1 group-title="VOD 2020 - 2021",The Canyonlands (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/93c0518243c11ccd997d582ff44ea700/540p/index.m3u8
+
+#EXTINF:-1 group-title="VOD 2020 - 2021",The Devil Below (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/4bea35095a9f6137037219cc78359301/540p/index.m3u8
+
+#EXTINF:-1 group-title="VOD 2020 - 2021",Tom and Jerry (2021)
+https://cdn2ii.diebutx.com/own2hls/2020/0dfcb92a188bc7676b71c95902e2cca7/540p/index.m3u8
+
 //// Malay VOD ////
 #EXTINF:-1 tvg-logo="https://content1.jdmagicbox.com/comp/jd_social/news/2020feb12/image-435292-n44ck2nc90.jpg?fit=around|210:308&crop=210:308;*,*" group-title="MALAYINDO", JAGA POCONG (2018)
 https://www.googleapis.com/drive/v3/files/1A8eGJeRDuqtrfJL8l9eMBxf8pNVoE54D?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-id="" tvg-name="Kampong Pisang Musikal Raya Istimewa (2021)" tvg-logo="http://tvmalaysia.cc:80/images/5cbc90ccc78e752577ffae0fb63e6975.jpg" group-title="MALAYINDO",Kampong Pisang Musikal Raya Istimewa (2021)
-http://iptv.tvmalaysia.cc:80/movie/jalan8/jalan8/8976.mp4
+#EXTINF:-1, group-title="MALAYINDO" tvg-logo="https://telegra.ph/file/521f96cbc505fa6e79750.jpg",Penunggang Agama PPVHD 720p [Malay Sub]
+https://f2lpadubot.herokuapp.com/1694229264714204/Penunggang.Agama.2021.1080p.PPVHD.mkv
 
-#EXTINF:-1 tvg-logo="http://tvmalaysia.cc/images/c0a1e1b1488da9041372249c69cca4ab.jpg" group-title="MALAYINDO", Arwah Pak Mat, Lif & AJK (2021)
-http://iptv.tvmalaysia.cc/movie/jalan8/jalan8/8975.mp4
+#EXTINF:-1, group-title="MALAYINDO" tvg-logo="",18 Puasa Di Kampong Pisang 1080p
+https://f2lpadubot.herokuapp.com/1382655157193180/18.Puasa..Di.Kampong.Pisang.1080p.PPVHD.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Matilah Nak Pontianak" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ARxmMbR1O5EOb1yhrDGKXcUAl5.jpg" group-title="MALAYINDO",Matilah Nak Pontianak
-http://iptv.tvmalaysia.cc:80/movie/jalan8/jalan8/7133.mp4
+#EXTINF:-1, group-title="MALAYINDO" tvg-logo="",Stand by Me Doraemon 2 720p [Malay Sub]
+https://f2lpadubot.herokuapp.com/1694576483803504/Stand.by.Me.Doraemon.2.2020.720p.BDRip.AAC.x264_OMG.mp4
+
+/// VOD ANIMASI ///
+#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KVqx7pd.jpg",A Shaun the Sheep Movie: Farmageddon (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960866
+
+#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/t7BAd65.jpg",Inc. (2001)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960873
+
+#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/DBhTp1D.jpg",Monsters University (2013)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960872
+
+#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/iIJrON9.jpg",Trolls (2016)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960897
+
+#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/8wxLpgP.jpg",Moana (2016)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960933
 
 //// HINDI VOD///
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ZD7k2wY.jpg" group-title="HINDI VOD", Bajrangi Bhaijaan (2015)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960996
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j267YqLvKAHeyykTflxzpgVgviQ.jpg" group-title="HINDI VOD", Veer-Zaara (2004)
-http://iptv.tvmalaysia.cc/movie/jalan8/jalan8/7317.mp4
+#EXTINF:-1 group-title="VOD INDIA" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/qyDWWme.jpg",Hotel Mumbai (2018)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282961007
+
 
 //// Mr Bean ////
 #EXTINF:-1 group-title="VOD | Mr BEAN SERIAL" tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" ,EP01 - Si Kocak yang Legendaris
