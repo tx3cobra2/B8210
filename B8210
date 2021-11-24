@@ -278,8 +278,7 @@ https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Movies",HBO
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-http://iptv.tvmalaysia.cc:80/422072/422072/6797
+http://iptv.tvmalaysia.cc:80/422072/422072/7067
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2592,6 +2591,15 @@ https://cdn2ii.diebutx.com/own2hls/2020/4bea35095a9f6137037219cc78359301/540p/in
 #EXTINF:-1 group-title="VOD 2020 - 2021",Tom and Jerry (2021)
 https://cdn2ii.diebutx.com/own2hls/2020/0dfcb92a188bc7676b71c95902e2cca7/540p/index.m3u8
 
+#EXTINF:-1 group-title="VOD 2020 - 2021",I am Legend
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/313.mp4
+
+#EXTINF:-1 group-title="VOD 2020 - 2021",Maleficent mistress of evil
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/305.mp4
+
+#EXTINF:-1 group-title="VOD 2020 - 2021",BLACKPINK: Light Up the Sky (2020)
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/6667.mp4
+
 //// Malay VOD ////
 #EXTINF:-1 tvg-logo="https://content1.jdmagicbox.com/comp/jd_social/news/2020feb12/image-435292-n44ck2nc90.jpg?fit=around|210:308&crop=210:308;*,*" group-title="MALAYINDO", JAGA POCONG (2018)
 https://www.googleapis.com/drive/v3/files/1A8eGJeRDuqtrfJL8l9eMBxf8pNVoE54D?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -2608,8 +2616,11 @@ https://f2lpadubot.herokuapp.com/1694576483803504/Stand.by.Me.Doraemon.2.2020.72
 #EXTINF:-1, group-title="MALAYINDO" tvg-logo="",MAEL TOTEY the movie [Malay Sub]
 http://iptv.tvmalaysia.cc:80/movie/422072/422072/304.mp4
 
-#EXTINF:-1, group-title="MALAYINDO" tvg-logo="",3 idiots [Malay Sub]
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/297.mp4
+#EXTINF:-1, group-title="MALAYINDO" tvg-logo="",AKU KAYA the movie [Malay Sub]
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/423.mp4
+
+#EXTINF:-1, group-title="MALAYINDO" tvg-logo="",Pontianak dan dot dot dot
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/7110.mp4
 
 /// VOD ANIMASI ///
 #EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KVqx7pd.jpg",A Shaun the Sheep Movie: Farmageddon (2019)
@@ -2631,8 +2642,15 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960933
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ZD7k2wY.jpg" group-title="HINDI VOD", Bajrangi Bhaijaan (2015)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960996
 
-#EXTINF:-1 group-title="HINDI VOD" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/qyDWWme.jpg",Hotel Mumbai (2018)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282961007
+#EXTINF:-1, group-title="HINDI VOD" tvg-logo="",3 idiots [Malay Sub]
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/297.mp4
+
+#EXTINF:-1, group-title="HINDI VOD" tvg-logo="",Bhoothnath
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/6567.mp4
+
+#EXTINF:-1, group-title="HINDI VOD" tvg-logo="",Bhoothnath Return
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/6568.mp4
+
 
 
 //// Mr Bean ////
