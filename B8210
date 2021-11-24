@@ -33,6 +33,22 @@ http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 <!--#EXTINF:0, Animax
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065984
 
+//// Astro 1 /////
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+#EXTINF:-1 group-title="ABC" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
+https://web.hypp.tv:443/PLTV/88888888/224/3221227769/3221227769.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDA4OGEzMTAtNGNiYi0zNGMzLTgwYjctMGIzNGNmNTgzYjVk
+#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
+#EXTINF:-1 group-title="ABC" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
+https://web.hypp.tv:443/PLTV/88888888/224/3221227815/3221227815.mpd
+
+
+
+
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest/scale-to-width-down/656?cb=20200525153311",TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/102_300.png/revision/latest/scale-to-width-down/300?cb=20160501084045",TV2
