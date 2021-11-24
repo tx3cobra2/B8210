@@ -106,6 +106,7 @@ http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 #EXTINF:-1 tvg-id="TVS" tvg-name="TVS" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg"group-title="Malaysia",TVS
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Astro_Box_Office_Movies_2007.png" group-title="Malaysia" ,Astro Boxoffice BollyOne
+http://iptv.tvmalaysia.cc:80/422072/422072/6754
 http://50.7.161.82:8278/streams/d/bollyone_pye/playlist.m3u8
 
 
@@ -533,6 +534,7 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365e
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.jpg" group-title="Lifestyle",AFN
+http://iptv.tvmalaysia.cc:80/422072/422072/6693
 https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" group-title="Lifestyle",Food Network HD 
