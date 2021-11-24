@@ -710,7 +710,7 @@ http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 <!--#EXTINF:-1 group-title="SPORT" tvg-logo = "https://www.dropbox.com/s/lz1saqscj4246qz/wwe.jpg?dl=1", WWE
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="http://static.epg.best/us/WWE.us.png" group-title="SPORT",WWE
-https://www.livedoomovie.com/02_WWE_720p/chunklist.m3u8
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18549
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 <!--#EXTINF:-1 group-title="SPORT" tvg-logo = "https://www.dropbox.com/s/lz1saqscj4246qz/wwe.jpg?dl=1", WWE2
 <!--https://www.livedoomovie.com/02_WWE_720p/chunklist.m3u8
