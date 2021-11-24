@@ -2605,6 +2605,12 @@ https://f2lpadubot.herokuapp.com/1382655157193180/18.Puasa..Di.Kampong.Pisang.10
 #EXTINF:-1, group-title="MALAYINDO" tvg-logo="",Stand by Me Doraemon 2 720p [Malay Sub]
 https://f2lpadubot.herokuapp.com/1694576483803504/Stand.by.Me.Doraemon.2.2020.720p.BDRip.AAC.x264_OMG.mp4
 
+#EXTINF:-1, group-title="MALAYINDO" tvg-logo="",MAEL TOTEY the movie [Malay Sub]
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/304.mp4
+
+#EXTINF:-1, group-title="MALAYINDO" tvg-logo="",3 idiots [Malay Sub]
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/297.mp4
+
 /// VOD ANIMASI ///
 #EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KVqx7pd.jpg",A Shaun the Sheep Movie: Farmageddon (2019)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960866
