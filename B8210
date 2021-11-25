@@ -284,6 +284,7 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="CINEMAX" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="Movies",CINEMAX
+http://iptv.tvmalaysia.cc:80/422072/422072/7062
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -407,6 +408,11 @@ http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="Movies3",Galxy tv
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="Movies3",Galaxy Premium
+http://iptv.tvmalaysia.cc:80/422072/422072/8838
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Movies3",Star Movies HD
+http://iptv.tvmalaysia.cc:80/422072/422072/8997
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRGLPY2oEPwWo1RkuF8CrCajChSBzW8CRcmkS3qCRXw7EWT1M&s" group-title="Movies3",Fantastik Movie
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -645,6 +651,12 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremiu
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/QdHzT8pm/sb.png" group-title="Kids",SpongeBob
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/QdHzT8pm/sb.png" group-title="Kids",Tom & Jerry HD
+http://iptv.tvmalaysia.cc:80/422072/422072/8986
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/disneyxd.png" group-title="Kids",Disney XD
+http://iptv.tvmalaysia.cc:80/422072/422072/7198
+
 <!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 <!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 <!--#EXTINF:-1 tvg-id="DisneyChannel.MACAN" tvg-name="Disney Channel" tvg-logo="https://i.ibb.co/D1cGfRm/gcj.png" group-title="Kids",Disney Channel
@@ -710,6 +722,7 @@ http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 <!--#EXTINF:-1 group-title="SPORT" tvg-logo = "https://www.dropbox.com/s/lz1saqscj4246qz/wwe.jpg?dl=1", WWE
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="http://static.epg.best/us/WWE.us.png" group-title="SPORT",WWE
+http://iptv.tvmalaysia.cc:80/422072/422072/6849
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18549
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 <!--#EXTINF:-1 group-title="SPORT" tvg-logo = "https://www.dropbox.com/s/lz1saqscj4246qz/wwe.jpg?dl=1", WWE2
@@ -2582,13 +2595,13 @@ https://www.dropbox.com/s/tm3v0cjd5fyzigv/Pokemon.Detective.Pikachu.2019.720p.Bl
 https://www.googleapis.com/drive/v3/files/1tXkZqjHTPEhU5kavx5UQa7eCY2Ud6Ggv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 /// VOD 2020-2021 ////
-#EXTINF:-1 group-title="VOD 2020 - 2021",The Canyonlands (2021)
+#EXTINF:-1 group-title="VOD 2020 - 2021",The Canyonlands 
 https://cdn3ii.diebutx.com/own2hls/2020/93c0518243c11ccd997d582ff44ea700/540p/index.m3u8
 
-#EXTINF:-1 group-title="VOD 2020 - 2021",The Devil Below (2021)
+#EXTINF:-1 group-title="VOD 2020 - 2021",The Devil Below 
 https://cdn2ii.diebutx.com/own2hls/2020/4bea35095a9f6137037219cc78359301/540p/index.m3u8
 
-#EXTINF:-1 group-title="VOD 2020 - 2021",Tom and Jerry (2021)
+#EXTINF:-1 group-title="VOD 2020 - 2021",Tom and Jerry 
 https://cdn2ii.diebutx.com/own2hls/2020/0dfcb92a188bc7676b71c95902e2cca7/540p/index.m3u8
 
 #EXTINF:-1 group-title="VOD 2020 - 2021",I am Legend
@@ -2599,6 +2612,9 @@ http://iptv.tvmalaysia.cc:80/movie/422072/422072/305.mp4
 
 #EXTINF:-1 group-title="VOD 2020 - 2021",BLACKPINK: Light Up the Sky (2020)
 http://iptv.tvmalaysia.cc:80/movie/422072/422072/6667.mp4
+
+#EXTINF:-1 group-title="VOD 2020 - 2021",Hancock
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/7129.mp4
 
 //// Malay VOD ////
 #EXTINF:-1 tvg-logo="https://content1.jdmagicbox.com/comp/jd_social/news/2020feb12/image-435292-n44ck2nc90.jpg?fit=around|210:308&crop=210:308;*,*" group-title="MALAYINDO", JAGA POCONG (2018)
@@ -2622,6 +2638,15 @@ http://iptv.tvmalaysia.cc:80/movie/422072/422072/423.mp4
 #EXTINF:-1, group-title="MALAYINDO" tvg-logo="",Pontianak dan dot dot dot
 http://iptv.tvmalaysia.cc:80/movie/422072/422072/7110.mp4
 
+#EXTINF:-1, group-title="MALAYINDO" tvg-logo="",Bravo 5
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/7121.mp4
+
+#EXTINF:-1, group-title="MALAYINDO" tvg-logo="",KL Special Force
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/7103.mp4
+
+#EXTINF:-1, group-title="MALAYINDO" tvg-logo="",Saka Zain Yusof
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/7010.mp4
+
 /// VOD ANIMASI ///
 #EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KVqx7pd.jpg",A Shaun the Sheep Movie: Farmageddon (2019)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960866
@@ -2638,6 +2663,46 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960897
 #EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/8wxLpgP.jpg",Moana (2016)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960933
 
+#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="",Upin & Ipin Keris Siamang Tunggal
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/7141.mkv
+
+#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="", Sponge on the run movie malay
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/338.mp4
+
+#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="", Phinea And Ferb
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/6648.mp4
+
+#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="", ANGELA Christmas wish
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/7120.mp4
+
+#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="", Over The moon
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/6679.mp4
+
+/// Nobita VOD ///
+#EXTINF:-1 group-title="DORAEMON" tvg-logo="", Doraemon: Nobita and the Winged Braves (2001
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/7025.mp4
+
+#EXTINF:-1 group-title="DORAEMON" tvg-logo="", Doraemon: Nobita Dan Kerajaan Robot
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/7026.mp4
+
+#EXTINF:-1 group-title="DORAEMON" tvg-logo="", Doraemon: Nobita and the Windmasters (2003)
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/7027.mp4
+
+#EXTINF:-1 group-title="DORAEMON" tvg-logo="", Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey (2004)
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/7085.mp4
+
+#EXTINF:-1 group-title="DORAEMON" tvg-logo="", Doraemon: Nobita's Dinosaur (2006)
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/7086.mp4
+
+#EXTINF:-1 group-title="DORAEMON" tvg-logo="", Doraemon: Nobita The Great New Adventure Into The Underworld 
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/7087.mp4
+
+#EXTINF:-1 group-title="DORAEMON" tvg-logo="", Doraemon: Nobita and the Steel Troops (1986)
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/7088.mp4
+
+#EXTINF:-1 group-title="DORAEMON" tvg-logo="", Doraemon: Nobita and the Island of Miracles ~Animal Adventure~ (2012)
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/7089.mp4
+
 //// HINDI VOD///
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ZD7k2wY.jpg" group-title="HINDI VOD", Bajrangi Bhaijaan (2015)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960996
@@ -2651,7 +2716,17 @@ http://iptv.tvmalaysia.cc:80/movie/422072/422072/6567.mp4
 #EXTINF:-1, group-title="HINDI VOD" tvg-logo="",Bhoothnath Return
 http://iptv.tvmalaysia.cc:80/movie/422072/422072/6568.mp4
 
+#EXTINF:-1, group-title="HINDI VOD" tvg-logo="",Kabhi Alvida Naa Kehna (2006)
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/7132.mp4
 
+#EXTINF:-1, group-title="HINDI VOD" tvg-logo="",Veer Zaara
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/7317.mp4
+
+#EXTINF:-1, group-title="HINDI VOD" tvg-logo="",Vaastu Shastra
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/7316.mp4
+
+#EXTINF:-1, group-title="HINDI VOD" tvg-logo="",Chalte Chalte
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/329.mp4
 
 //// Mr Bean ////
 #EXTINF:-1 group-title="VOD | Mr BEAN SERIAL" tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" ,EP01 - Si Kocak yang Legendaris
