@@ -725,8 +725,9 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 http://iptv.tvmalaysia.cc:80/422072/422072/6849
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18549
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
-<!--#EXTINF:-1 group-title="SPORT" tvg-logo = "https://www.dropbox.com/s/lz1saqscj4246qz/wwe.jpg?dl=1", WWE2
-<!--https://www.livedoomovie.com/02_WWE_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT" tvg-logo = "https://www.dropbox.com/s/lz1saqscj4246qz/wwe.jpg?dl=1", Impact Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
 #EXTINF: -1 tvg-id="801" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Astro_Arena.png/revision/latest?cb=20180622080600",801 Astro Arena
 # http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
