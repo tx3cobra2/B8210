@@ -2617,6 +2617,9 @@ http://iptv.tvmalaysia.cc:80/movie/422072/422072/6667.mp4
 #EXTINF:-1 group-title="VOD 2020 - 2021",Hancock
 http://iptv.tvmalaysia.cc:80/movie/422072/422072/7129.mp4
 
+#EXTINF:-1 group-title="VOD 2020 - 2021",Venom
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/7318.mp4
+
 //// Malay VOD ////
 #EXTINF:-1 tvg-logo="https://content1.jdmagicbox.com/comp/jd_social/news/2020feb12/image-435292-n44ck2nc90.jpg?fit=around|210:308&crop=210:308;*,*" group-title="MALAYINDO", JAGA POCONG (2018)
 https://www.googleapis.com/drive/v3/files/1A8eGJeRDuqtrfJL8l9eMBxf8pNVoE54D?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -2678,6 +2681,9 @@ http://iptv.tvmalaysia.cc:80/movie/422072/422072/7120.mp4
 
 #EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="", Over The moon
 http://iptv.tvmalaysia.cc:80/movie/422072/422072/6679.mp4
+
+#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="", The BFG
+http://iptv.tvmalaysia.cc:80/movie/422072/422072/7311.mp4
 
 /// Nobita VOD ///
 #EXTINF:-1 group-title="DORAEMON" tvg-logo="", Doraemon: Nobita and the Winged Braves (2001
