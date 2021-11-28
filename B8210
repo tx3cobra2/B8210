@@ -2643,7 +2643,7 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960933
 
 
 /// Shinchan VOD ///
-#EXTINF:-1 group-title="Shinchan" tvg-logo="", Shinchan Dangerous Honey
+#EXTINF:-1 group-title="Shinchan" tvg-logo="https://popcornsg.s3.amazonaws.com/movies/650/11590-14504-CrayonShjpg", Shinchan Dangerous Honey
 https://www.googleapis.com/drive/v3/files/1Wcabwv9GQNkRzDkUXRfcV5xwtCVojvIb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
