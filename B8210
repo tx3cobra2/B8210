@@ -2642,9 +2642,10 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960933
 
 
 
-/// Nobita VOD ///
+/// Shinchan VOD ///
 #EXTINF:-1 group-title="Shinchan" tvg-logo="", Shinchan Dangerous Honey
-https://drive.google.com/file/d/1Wcabwv9GQNkRzDkUXRfcV5xwtCVojvIb/view?usp=sharing
+https://www.googleapis.com/drive/v3/files/1Wcabwv9GQNkRzDkUXRfcV5xwtCVojvIb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 
 //// HINDI VOD///
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ZD7k2wY.jpg" group-title="HINDI VOD", Bajrangi Bhaijaan (2015)
