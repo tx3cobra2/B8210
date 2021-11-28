@@ -2609,20 +2609,20 @@ https://cdn2ii.diebutx.com/own2hls/2020/0dfcb92a188bc7676b71c95902e2cca7/540p/in
 
 
 //// Malay VOD ////
-#EXTINF:-1 tvg-logo="https://content1.jdmagicbox.com/comp/jd_social/news/2020feb12/image-435292-n44ck2nc90.jpg?fit=around|210:308&crop=210:308;*,*" group-title="MALAYINDO", JAGA POCONG (2018)
+#EXTINF:-1 tvg-logo="https://content1.jdmagicbox.com/comp/jd_social/news/2020feb12/image-435292-n44ck2nc90.jpg?fit=around|210:308&crop=210:308;*,*" group-title="Wayang Melayu", JAGA POCONG (2018)
 https://www.googleapis.com/drive/v3/files/1A8eGJeRDuqtrfJL8l9eMBxf8pNVoE54D?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1, group-title="MALAYINDO" tvg-logo="https://telegra.ph/file/521f96cbc505fa6e79750.jpg",Penunggang Agama PPVHD 720p [Malay Sub]
+#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="https://telegra.ph/file/521f96cbc505fa6e79750.jpg",Penunggang Agama PPVHD 720p [Malay Sub]
 https://f2lpadubot.herokuapp.com/1694229264714204/Penunggang.Agama.2021.1080p.PPVHD.mkv
 
-#EXTINF:-1, group-title="MALAYINDO" tvg-logo="",18 Puasa Di Kampong Pisang 1080p
+#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="",18 Puasa Di Kampong Pisang 1080p
 https://f2lpadubot.herokuapp.com/1382655157193180/18.Puasa..Di.Kampong.Pisang.1080p.PPVHD.mkv
 
-#EXTINF:-1, group-title="MALAYINDO" tvg-logo="",Stand by Me Doraemon 2 720p [Malay Sub]
+#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="",Stand by Me Doraemon 2 720p [Malay Sub]
 https://f2lpadubot.herokuapp.com/1694576483803504/Stand.by.Me.Doraemon.2.2020.720p.BDRip.AAC.x264_OMG.mp4
 
-#EXTINF:-1, group-title="MALAYINDO" tvg-logo="",MAEL TOTEY the movie [Malay Sub]
-
+#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="",Senario Lagi
+https://www.googleapis.com/drive/v3/files/1c8NAWF5KWWjKJrOxDVcKV-9_aUsFXRBV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 /// VOD ANIMASI ///
 #EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KVqx7pd.jpg",A Shaun the Sheep Movie: Farmageddon (2019)
