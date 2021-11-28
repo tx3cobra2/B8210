@@ -2559,6 +2559,9 @@ https://www.googleapis.com/drive/v3/files/1LquY2r80Sa-akqac47NiPp_XEhwkfbIh?alt=
 
 ////movie 2021////
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/huG3721zD6YBRLYyrQ3lVeXTcPx.jpg" group-title="VOD 2021", Venom Let there be carnage 2021
+https://www.googleapis.com/drive/v3/files/1MlC5GPtWjvOAoQXbtl_cqv7Xw31TzPmd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQxMjVkZjEtMDQxYy00MGIwLWE1NjYtYzZkZmU1NTFlZGFlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="VOD 2021", The Conjuring : The Devil Made Me Do It (2021)
 http://admin.nf21.net/go/files/19354
 
@@ -2595,6 +2598,7 @@ https://www.dropbox.com/s/tm3v0cjd5fyzigv/Pokemon.Detective.Pikachu.2019.720p.Bl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRjt3CS/Birds-of-Prey-2020.jpg" group-title="VOD 2021", BirdsofPrey(2020)
 https://www.googleapis.com/drive/v3/files/1tXkZqjHTPEhU5kavx5UQa7eCY2Ud6Ggv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
+
 /// VOD 2020-2021 ////
 #EXTINF:-1 group-title="VOD 2020 - 2021",The Canyonlands 
 https://cdn3ii.diebutx.com/own2hls/2020/93c0518243c11ccd997d582ff44ea700/540p/index.m3u8
@@ -2604,8 +2608,6 @@ https://cdn2ii.diebutx.com/own2hls/2020/4bea35095a9f6137037219cc78359301/540p/in
 
 #EXTINF:-1 group-title="VOD 2020 - 2021",Tom and Jerry 
 https://cdn2ii.diebutx.com/own2hls/2020/0dfcb92a188bc7676b71c95902e2cca7/540p/index.m3u8
-
-#EXTINF:-1 group-title="VOD 2020 - 2021",I am Legend
 
 
 //// Malay VOD ////
@@ -2621,8 +2623,11 @@ https://f2lpadubot.herokuapp.com/1382655157193180/18.Puasa..Di.Kampong.Pisang.10
 #EXTINF:-1, group-title="Wayang Melayu" tvg-logo="",Stand by Me Doraemon 2 720p [Malay Sub]
 https://f2lpadubot.herokuapp.com/1694576483803504/Stand.by.Me.Doraemon.2.2020.720p.BDRip.AAC.x264_OMG.mp4
 
-#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="",Senario Lagi
+#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/3c/Poster_filem_Lagi-lagi_Senario_%282001%29.jpg",Senario Lagi
 https://www.googleapis.com/drive/v3/files/1c8NAWF5KWWjKJrOxDVcKV-9_aUsFXRBV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="https://kakimuvee.net/wp-content/uploads/2018/07/Poster-Filem-Paskal.jpg",Paskal
+https://www.googleapis.com/drive/v3/files/1NrwIvltl6VjyAkH0WhPDeaOiapkSnmpK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 /// VOD ANIMASI ///
 #EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KVqx7pd.jpg",A Shaun the Sheep Movie: Farmageddon (2019)
