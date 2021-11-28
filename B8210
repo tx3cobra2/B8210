@@ -456,6 +456,92 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f27bbe4779de70007a6d1
 #https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 http://217.79.184.69:25461/KLHkjhgFJhkKJhgKKGjhjhhHF/pokjGJHGJHFFHGCGJVkhGKH/32
 
+//// Malay VOD ////
+#EXTINF:-1 tvg-logo="https://content1.jdmagicbox.com/comp/jd_social/news/2020feb12/image-435292-n44ck2nc90.jpg?fit=around|210:308&crop=210:308;*,*" group-title="Wayang Melayu", JAGA POCONG (2018)
+https://www.googleapis.com/drive/v3/files/1A8eGJeRDuqtrfJL8l9eMBxf8pNVoE54D?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="https://telegra.ph/file/521f96cbc505fa6e79750.jpg",Penunggang Agama PPVHD 720p [Malay Sub]
+https://f2lpadubot.herokuapp.com/1694229264714204/Penunggang.Agama.2021.1080p.PPVHD.mkv
+
+#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="",18 Puasa Di Kampong Pisang 1080p
+https://f2lpadubot.herokuapp.com/1382655157193180/18.Puasa..Di.Kampong.Pisang.1080p.PPVHD.mkv
+
+#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="",Stand by Me Doraemon 2 720p [Malay Sub]
+https://f2lpadubot.herokuapp.com/1694576483803504/Stand.by.Me.Doraemon.2.2020.720p.BDRip.AAC.x264_OMG.mp4
+
+#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/3c/Poster_filem_Lagi-lagi_Senario_%282001%29.jpg",Senario Lagi
+https://www.googleapis.com/drive/v3/files/1c8NAWF5KWWjKJrOxDVcKV-9_aUsFXRBV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="https://kakimuvee.net/wp-content/uploads/2018/07/Poster-Filem-Paskal.jpg",Paskal
+https://www.googleapis.com/drive/v3/files/1NrwIvltl6VjyAkH0WhPDeaOiapkSnmpK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+////movie 2021////
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/huG3721zD6YBRLYyrQ3lVeXTcPx.jpg" group-title="VOD 2021", Venom Let there be carnage 2021
+https://www.googleapis.com/drive/v3/files/1MlC5GPtWjvOAoQXbtl_cqv7Xw31TzPmd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQxMjVkZjEtMDQxYy00MGIwLWE1NjYtYzZkZmU1NTFlZGFlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="VOD 2021", The Conjuring : The Devil Made Me Do It (2021)
+http://admin.nf21.net/go/files/19354
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI5YTUxOWEtZmRiZS00ZmQxLWE2NzctYTRiODA2NzE1ZjczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="VOD 2021", Cruella (2021)
+http://admin.nf21.net/go/files/19286
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QxZDcxOTQtNzljYi00YWRhLThkYjItNzJkMmUxZDJhMjA4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="VOD 2021", Seance (2021)
+http://admin.nf21.net/go/files/19109
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzJhZGMwMDMtNzgwYS00OWJiLWFjM2ItYWYxM2E0YTMzMzg1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="VOD 2021", The Djinn (2021)
+http://admin.nf21.net/go/files/18809
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY0NzgzYzctYWQwMC00MzM2LThjNGMtZjFjMWUyNzg0ZmM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" group-title="VOD 2021", Army of the Dead (2021)
+http://admin.nf21.net/go/files/19051
+
+#EXTINF:-1 tvg-logo="https://img.vxdn.net/p-max/200/the-patriot-6497.jpg" group-title="VOD 2021", The Patriot (2000)
+http://srv9.nf21.net/files/14-2018-06-25-b7a6f626f774070c8a902c0cba4b7196.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sEoPd814RlY2Py7nWMFvslND1iD.jpg" group-title="VOD 2021", Finding 'Ohana (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/d169147a60484e39fedcb7f3481f6f0e/540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xfWac8MTYDxujaxgPVcRD9yZaul.jpg" group-title="VOD 2021", Doctor Strange (2016)
+http://srv19.nf21.net:80/files/10-2018-08-03-2d8f006fa85f4d9bae69d108e45c9e95.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R6xZCtc/Sonic-the-Hedgehog-2020.jpg" group-title="VOD 2021", Sonic the Hedgehog (2020)
+https://www.googleapis.com/drive/v3/files/1HNEmsRA4KQqIP7Gtt23Yt1qXNsEIlwvn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/7qz8G0DcgLUkJSbLU5YpzQYlOnb.jpg" group-title="VOD 2021", Jungle Run
+https://www.googleapis.com/drive/v3/files/15eJky7XqODWlwEVjEmChcxRvviE9fpfw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fQkTN63/Film-Pokemon-Detective-Pikachu-2019-4.png" group-title="VOD 2021", PokemonDetectivePikachu(2019)
+https://www.dropbox.com/s/tm3v0cjd5fyzigv/Pokemon.Detective.Pikachu.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRjt3CS/Birds-of-Prey-2020.jpg" group-title="VOD 2021", BirdsofPrey(2020)
+https://www.googleapis.com/drive/v3/files/1tXkZqjHTPEhU5kavx5UQa7eCY2Ud6Ggv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+/// VOD ANIMASI ///
+#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KVqx7pd.jpg",A Shaun the Sheep Movie: Farmageddon (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960866
+
+#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/t7BAd65.jpg",Inc. (2001)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960873
+
+#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/DBhTp1D.jpg",Monsters University (2013)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960872
+
+#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/iIJrON9.jpg",Trolls (2016)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960897
+
+#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/8wxLpgP.jpg",Moana (2016)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960933
+
+/// Shinchan VOD ///
+#EXTINF:-1 group-title="Shinchan" tvg-logo="https://image.tmdb.org/t/p/w185//lX4GqaRoOdnQB34mQjDzwnscvj6.jpg", Shinchan Dangerous Honey
+https://www.googleapis.com/drive/v3/files/1Wcabwv9GQNkRzDkUXRfcV5xwtCVojvIb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="Shinchan" tvg-logo="https://walter.trakt.tv/images/movies/000/224/223/posters/thumb/9431dd86ae.jpg.webp", Shinchan cactus large attack
+https://www.googleapis.com/drive/v3/files/1w8uT5atkWQQETPKDYPKvYknw1AIpMKEq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+//// HINDI VOD///
+#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ZD7k2wY.jpg" group-title="HINDI VOD", Bajrangi Bhaijaan (2015)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960996
 
 ///// Hindi /////
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2557,48 +2643,6 @@ https://www.googleapis.com/drive/v3/files/1MR7l-zHrZS_5rdgYgLMK7tClinyRV3aX?alt=
 #EXTINF:-1 group-title="VOD Horror 2" ,Tooth Fairy 3
 https://www.googleapis.com/drive/v3/files/1LquY2r80Sa-akqac47NiPp_XEhwkfbIh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-////movie 2021////
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/huG3721zD6YBRLYyrQ3lVeXTcPx.jpg" group-title="VOD 2021", Venom Let there be carnage 2021
-https://www.googleapis.com/drive/v3/files/1MlC5GPtWjvOAoQXbtl_cqv7Xw31TzPmd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQxMjVkZjEtMDQxYy00MGIwLWE1NjYtYzZkZmU1NTFlZGFlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="VOD 2021", The Conjuring : The Devil Made Me Do It (2021)
-http://admin.nf21.net/go/files/19354
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI5YTUxOWEtZmRiZS00ZmQxLWE2NzctYTRiODA2NzE1ZjczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="VOD 2021", Cruella (2021)
-http://admin.nf21.net/go/files/19286
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QxZDcxOTQtNzljYi00YWRhLThkYjItNzJkMmUxZDJhMjA4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="VOD 2021", Seance (2021)
-http://admin.nf21.net/go/files/19109
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzJhZGMwMDMtNzgwYS00OWJiLWFjM2ItYWYxM2E0YTMzMzg1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="VOD 2021", The Djinn (2021)
-http://admin.nf21.net/go/files/18809
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY0NzgzYzctYWQwMC00MzM2LThjNGMtZjFjMWUyNzg0ZmM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" group-title="VOD 2021", Army of the Dead (2021)
-http://admin.nf21.net/go/files/19051
-
-#EXTINF:-1 tvg-logo="https://img.vxdn.net/p-max/200/the-patriot-6497.jpg" group-title="VOD 2021", The Patriot (2000)
-http://srv9.nf21.net/files/14-2018-06-25-b7a6f626f774070c8a902c0cba4b7196.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sEoPd814RlY2Py7nWMFvslND1iD.jpg" group-title="VOD 2021", Finding 'Ohana (2021)
-https://cdn3ii.diebutx.com/own2hls/2020/d169147a60484e39fedcb7f3481f6f0e/540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xfWac8MTYDxujaxgPVcRD9yZaul.jpg" group-title="VOD 2021", Doctor Strange (2016)
-http://srv19.nf21.net:80/files/10-2018-08-03-2d8f006fa85f4d9bae69d108e45c9e95.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R6xZCtc/Sonic-the-Hedgehog-2020.jpg" group-title="VOD 2021", Sonic the Hedgehog (2020)
-https://www.googleapis.com/drive/v3/files/1HNEmsRA4KQqIP7Gtt23Yt1qXNsEIlwvn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/7qz8G0DcgLUkJSbLU5YpzQYlOnb.jpg" group-title="VOD 2021", Jungle Run
-https://www.googleapis.com/drive/v3/files/15eJky7XqODWlwEVjEmChcxRvviE9fpfw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fQkTN63/Film-Pokemon-Detective-Pikachu-2019-4.png" group-title="VOD 2021", PokemonDetectivePikachu(2019)
-https://www.dropbox.com/s/tm3v0cjd5fyzigv/Pokemon.Detective.Pikachu.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bRjt3CS/Birds-of-Prey-2020.jpg" group-title="VOD 2021", BirdsofPrey(2020)
-https://www.googleapis.com/drive/v3/files/1tXkZqjHTPEhU5kavx5UQa7eCY2Ud6Ggv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
 /// VOD 2020-2021 ////
 #EXTINF:-1 group-title="VOD 2020 - 2021",The Canyonlands 
 https://cdn3ii.diebutx.com/own2hls/2020/93c0518243c11ccd997d582ff44ea700/540p/index.m3u8
@@ -2608,58 +2652,6 @@ https://cdn2ii.diebutx.com/own2hls/2020/4bea35095a9f6137037219cc78359301/540p/in
 
 #EXTINF:-1 group-title="VOD 2020 - 2021",Tom and Jerry 
 https://cdn2ii.diebutx.com/own2hls/2020/0dfcb92a188bc7676b71c95902e2cca7/540p/index.m3u8
-
-
-//// Malay VOD ////
-#EXTINF:-1 tvg-logo="https://content1.jdmagicbox.com/comp/jd_social/news/2020feb12/image-435292-n44ck2nc90.jpg?fit=around|210:308&crop=210:308;*,*" group-title="Wayang Melayu", JAGA POCONG (2018)
-https://www.googleapis.com/drive/v3/files/1A8eGJeRDuqtrfJL8l9eMBxf8pNVoE54D?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="https://telegra.ph/file/521f96cbc505fa6e79750.jpg",Penunggang Agama PPVHD 720p [Malay Sub]
-https://f2lpadubot.herokuapp.com/1694229264714204/Penunggang.Agama.2021.1080p.PPVHD.mkv
-
-#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="",18 Puasa Di Kampong Pisang 1080p
-https://f2lpadubot.herokuapp.com/1382655157193180/18.Puasa..Di.Kampong.Pisang.1080p.PPVHD.mkv
-
-#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="",Stand by Me Doraemon 2 720p [Malay Sub]
-https://f2lpadubot.herokuapp.com/1694576483803504/Stand.by.Me.Doraemon.2.2020.720p.BDRip.AAC.x264_OMG.mp4
-
-#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/3c/Poster_filem_Lagi-lagi_Senario_%282001%29.jpg",Senario Lagi
-https://www.googleapis.com/drive/v3/files/1c8NAWF5KWWjKJrOxDVcKV-9_aUsFXRBV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="https://kakimuvee.net/wp-content/uploads/2018/07/Poster-Filem-Paskal.jpg",Paskal
-https://www.googleapis.com/drive/v3/files/1NrwIvltl6VjyAkH0WhPDeaOiapkSnmpK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-/// VOD ANIMASI ///
-#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KVqx7pd.jpg",A Shaun the Sheep Movie: Farmageddon (2019)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960866
-
-#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/t7BAd65.jpg",Inc. (2001)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960873
-
-#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/DBhTp1D.jpg",Monsters University (2013)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960872
-
-#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/iIJrON9.jpg",Trolls (2016)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960897
-
-#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/8wxLpgP.jpg",Moana (2016)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960933
-
-
-
-/// Shinchan VOD ///
-#EXTINF:-1 group-title="Shinchan" tvg-logo="https://image.tmdb.org/t/p/w185//lX4GqaRoOdnQB34mQjDzwnscvj6.jpg", Shinchan Dangerous Honey
-https://www.googleapis.com/drive/v3/files/1Wcabwv9GQNkRzDkUXRfcV5xwtCVojvIb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 group-title="Shinchan" tvg-logo="https://walter.trakt.tv/images/movies/000/224/223/posters/thumb/9431dd86ae.jpg.webp", Shinchan cactus large attack
-https://www.googleapis.com/drive/v3/files/1w8uT5atkWQQETPKDYPKvYknw1AIpMKEq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
-//// HINDI VOD///
-#EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ZD7k2wY.jpg" group-title="HINDI VOD", Bajrangi Bhaijaan (2015)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960996
-
-
 
 //// Mr Bean ////
 #EXTINF:-1 group-title="VOD | Mr BEAN SERIAL" tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" ,EP01 - Si Kocak yang Legendaris
