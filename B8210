@@ -2606,19 +2606,7 @@ https://cdn2ii.diebutx.com/own2hls/2020/4bea35095a9f6137037219cc78359301/540p/in
 https://cdn2ii.diebutx.com/own2hls/2020/0dfcb92a188bc7676b71c95902e2cca7/540p/index.m3u8
 
 #EXTINF:-1 group-title="VOD 2020 - 2021",I am Legend
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/313.mp4
 
-#EXTINF:-1 group-title="VOD 2020 - 2021",Maleficent mistress of evil
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/305.mp4
-
-#EXTINF:-1 group-title="VOD 2020 - 2021",BLACKPINK: Light Up the Sky (2020)
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/6667.mp4
-
-#EXTINF:-1 group-title="VOD 2020 - 2021",Hancock
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/7129.mp4
-
-#EXTINF:-1 group-title="VOD 2020 - 2021",Venom
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/7318.mp4
 
 //// Malay VOD ////
 #EXTINF:-1 tvg-logo="https://content1.jdmagicbox.com/comp/jd_social/news/2020feb12/image-435292-n44ck2nc90.jpg?fit=around|210:308&crop=210:308;*,*" group-title="MALAYINDO", JAGA POCONG (2018)
@@ -2634,22 +2622,7 @@ https://f2lpadubot.herokuapp.com/1382655157193180/18.Puasa..Di.Kampong.Pisang.10
 https://f2lpadubot.herokuapp.com/1694576483803504/Stand.by.Me.Doraemon.2.2020.720p.BDRip.AAC.x264_OMG.mp4
 
 #EXTINF:-1, group-title="MALAYINDO" tvg-logo="",MAEL TOTEY the movie [Malay Sub]
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/304.mp4
 
-#EXTINF:-1, group-title="MALAYINDO" tvg-logo="",AKU KAYA the movie [Malay Sub]
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/423.mp4
-
-#EXTINF:-1, group-title="MALAYINDO" tvg-logo="",Pontianak dan dot dot dot
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/7110.mp4
-
-#EXTINF:-1, group-title="MALAYINDO" tvg-logo="",Bravo 5
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/7121.mp4
-
-#EXTINF:-1, group-title="MALAYINDO" tvg-logo="",KL Special Force
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/7103.mp4
-
-#EXTINF:-1, group-title="MALAYINDO" tvg-logo="",Saka Zain Yusof
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/7010.mp4
 
 /// VOD ANIMASI ///
 #EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KVqx7pd.jpg",A Shaun the Sheep Movie: Farmageddon (2019)
@@ -2667,73 +2640,17 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960897
 #EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/8wxLpgP.jpg",Moana (2016)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960933
 
-#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="",Upin & Ipin Keris Siamang Tunggal
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/7141.mkv
 
-#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="", Sponge on the run movie malay
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/338.mp4
-
-#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="", Phinea And Ferb
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/6648.mp4
-
-#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="", ANGELA Christmas wish
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/7120.mp4
-
-#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="", Over The moon
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/6679.mp4
-
-#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="", The BFG
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/7311.mp4
 
 /// Nobita VOD ///
-#EXTINF:-1 group-title="DORAEMON" tvg-logo="", Doraemon: Nobita and the Winged Braves (2001
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/7025.mp4
-
-#EXTINF:-1 group-title="DORAEMON" tvg-logo="", Doraemon: Nobita Dan Kerajaan Robot
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/7026.mp4
-
-#EXTINF:-1 group-title="DORAEMON" tvg-logo="", Doraemon: Nobita and the Windmasters (2003)
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/7027.mp4
-
-#EXTINF:-1 group-title="DORAEMON" tvg-logo="", Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey (2004)
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/7085.mp4
-
-#EXTINF:-1 group-title="DORAEMON" tvg-logo="", Doraemon: Nobita's Dinosaur (2006)
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/7086.mp4
-
-#EXTINF:-1 group-title="DORAEMON" tvg-logo="", Doraemon: Nobita The Great New Adventure Into The Underworld 
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/7087.mp4
-
-#EXTINF:-1 group-title="DORAEMON" tvg-logo="", Doraemon: Nobita and the Steel Troops (1986)
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/7088.mp4
-
-#EXTINF:-1 group-title="DORAEMON" tvg-logo="", Doraemon: Nobita and the Island of Miracles ~Animal Adventure~ (2012)
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/7089.mp4
+#EXTINF:-1 group-title="Shinchan" tvg-logo="https://www.imdb.com/title/tt10208548/mediaviewer/rm1661822464/?ref_=tt_ov_i", Shinchan Dangerous Honey
+https://drive.google.com/file/d/1Wcabwv9GQNkRzDkUXRfcV5xwtCVojvIb/view?usp=sharing
 
 //// HINDI VOD///
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ZD7k2wY.jpg" group-title="HINDI VOD", Bajrangi Bhaijaan (2015)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960996
 
-#EXTINF:-1, group-title="HINDI VOD" tvg-logo="",3 idiots [Malay Sub]
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/297.mp4
 
-#EXTINF:-1, group-title="HINDI VOD" tvg-logo="",Bhoothnath
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/6567.mp4
-
-#EXTINF:-1, group-title="HINDI VOD" tvg-logo="",Bhoothnath Return
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/6568.mp4
-
-#EXTINF:-1, group-title="HINDI VOD" tvg-logo="",Kabhi Alvida Naa Kehna (2006)
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/7132.mp4
-
-#EXTINF:-1, group-title="HINDI VOD" tvg-logo="",Veer Zaara
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/7317.mp4
-
-#EXTINF:-1, group-title="HINDI VOD" tvg-logo="",Vaastu Shastra
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/7316.mp4
-
-#EXTINF:-1, group-title="HINDI VOD" tvg-logo="",Chalte Chalte
-http://iptv.tvmalaysia.cc:80/movie/422072/422072/329.mp4
 
 //// Mr Bean ////
 #EXTINF:-1 group-title="VOD | Mr BEAN SERIAL" tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" ,EP01 - Si Kocak yang Legendaris
