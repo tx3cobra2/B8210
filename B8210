@@ -540,12 +540,18 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960933
 #EXTINF:-1 group-title="Shinchan" tvg-logo="https://image.tmdb.org/t/p/w185//lX4GqaRoOdnQB34mQjDzwnscvj6.jpg", Shinchan Dangerous Honey
 https://www.googleapis.com/drive/v3/files/1w5ap5K4vxlzXGUJkXIvHtGZZ1TzaDZWZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="Shinchan" tvg-logo="https://walter.trakt.tv/images/movies/000/224/223/posters/thumb/9431dd86ae.jpg.webp", Shinchan cactus large attack
+#EXTINF:-1 group-title="Shinchan" tvg-logo="https://image.tmdb.org/t/p/w185/6t3WfoDWuyoayLj8G2F52xtOCEl.jpg", Shinchan cactus large attack
 https://www.googleapis.com/drive/v3/files/1SY6BurpJcYpBRgY8qqTfluSH9-CiKZcH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="Shinchan" tvg-logo="https://image.tmdb.org/t/p/w185/aa7X8NXBoeQfhqzJ079SN8WAJMm.jpg", Shinchan cactus large attack
 
 //// HINDI VOD///
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ZD7k2wY.jpg" group-title="HINDI VOD", Bajrangi Bhaijaan (2015)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960996
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/3l7FGKHDanLhEI1ECdmzK9LnJrj.jpg" group-title="HINDI VOD", Radhe
+https://www.googleapis.com/drive/v3/files/1u4kMAEBmDvc7tIHwX-yYTbK6qNsakeyJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 
 ///// Hindi /////
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
