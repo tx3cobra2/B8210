@@ -542,6 +542,9 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960872
 #EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/iIJrON9.jpg",Trolls (2016)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960897
 
+#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi8yTYRyp6VSpmvrCVvJuyC0cJ01kEP6HLZA&usqp=CAU",Trolls World Tour (2020) โทรลล์ส เวิลด์ ทัวร์
+https://p2p-ns1.sage.stream/hls/trolls-world-tour-2020/index.m3u8
+
 #EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/8wxLpgP.jpg",Moana (2016)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960933
 
@@ -564,6 +567,12 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960996
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/3l7FGKHDanLhEI1ECdmzK9LnJrj.jpg" group-title="HINDI VOD", Radhe
 https://www.googleapis.com/drive/v3/files/1u4kMAEBmDvc7tIHwX-yYTbK6qNsakeyJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
+///Classic Movie ///
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwroIl6oyw_dzWxi4tzgDSTdsroeQ_Jo7hVhtOzdYl3lwQn6bo_xKoaKXlNhZJYn3uY6w&usqp=CAU" group-title="Classic Movie", The Great Escape (1963)
+https://p2p-ns1.sage.stream/hls/the-great-escape-1963/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWE8esaQEjyaYnC8eErTGycdE1xTpb6RaUL6BOuGAuZpm0xznQbfZ9Ww55M5-PPpdXaZ4&usqp=CAU" group-title="Classic Movie", The Great Race (1965)
+https://p2p-ns1.sage.stream/hls/the-great-race-1965-sub/index.m3u8
 
 ///// Hindi /////
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
