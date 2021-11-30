@@ -536,6 +536,9 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960897
 #EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/8wxLpgP.jpg",Moana (2016)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960933
 
+#EXTINF:-1 group-title="Shinchan" tvg-logo="https://image.tmdb.org/t/p/w185/4ZSzEDVdxWVMVO4oZDvoodQOEfr.jpg", Secret Magic Control Agency
+https://www.googleapis.com/drive/v3/files/14cRnRq7jcScnc1-5SYC_4OqgA_Q4Peqv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 /// Shinchan VOD ///
 #EXTINF:-1 group-title="Shinchan" tvg-logo="https://image.tmdb.org/t/p/w185//lX4GqaRoOdnQB34mQjDzwnscvj6.jpg", Shinchan Dangerous Honey
 https://www.googleapis.com/drive/v3/files/1w5ap5K4vxlzXGUJkXIvHtGZZ1TzaDZWZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
