@@ -277,9 +277,18 @@ https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Movies",HBO
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Movies",HBO Malaysia
 http://iptv.tvmalaysia.cc:80/422072/422072/7067
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Movies",HBO HD (Usa)
+http://livetv2021.site:8080/9897876765/6576567/125
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Movies",HBO2 HD (Usa)
+http://livetv2021.site:8080/9897876765/6576567/126
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Movies",HBO+ HD (Usa)
+http://livetv2021.site:8080/9897876765/6576567/127
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -571,6 +580,238 @@ http://50.7.161.82:8277/streams/d/bollyone_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Hindi",MAHA MOVIE
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 
+/// Channel USA///
+#EXTM3U url-tvg=https://bit.ly/3itZsSm
+#EXTINF: -1 tvg-name="Gratis"  group-title="Channel USA", USA CHannel
+https://emoji.mrz.kn
+#EXTM3U
+#EXTINF:-1,Baby First USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3689
+#EXTINF:-1,PBS Kids USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3690
+#EXTINF:-1,Disney Channel USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3691
+#EXTINF:-1,Disney XD USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3692
+#EXTINF:-1,Disney Junior USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3693
+#EXTINF:-1,Nickelodeon USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3694
+#EXTINF:-1,Nick Jr USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3695
+#EXTINF:-1,Nicktoons USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3696
+#EXTINF:-1,TeenNick USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3697
+#EXTINF:-1,Boomerang USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3698
+#EXTINF:-1,Cartoon Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3699
+#EXTINF:-1,Universal Kids USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3700
+#EXTINF:-1,Freeform USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3701
+#EXTINF:-1,HBO Family USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3702
+#EXTINF:-1,Showtime Family Zone USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3703
+#EXTINF:-1,Starz Kids & Family USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3704
+#EXTINF:-1,ABC Detroit USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3594
+#EXTINF:-1,FOX Detroit USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3595
+#EXTINF:-1,NBC Detroit USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3596
+#EXTINF:-1,CBS Detroit USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3597
+#EXTINF:-1,ABC Chicago USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3598
+#EXTINF:-1,FOX Chicago USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3599
+#EXTINF:-1,NBC Chicago USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3600
+#EXTINF:-1,CBS Chicago USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3601
+#EXTINF:-1,CW USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3602
+#EXTINF:-1,PBS USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3603
+#EXTINF:-1,A&E USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3604
+#EXTINF:-1,USA Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3605
+#EXTINF:-1,TNT USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3606
+#EXTINF:-1,BBC AMERICA USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3607
+#EXTINF:-1,POP USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3608
+#EXTINF:-1,WE TV USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3609
+#EXTINF:-1,TRU TV USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3610
+#EXTINF:-1,TBS USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3611
+#EXTINF:-1,COMEDY CENTRAL USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3612
+#EXTINF:-1,VICE USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3613
+#EXTINF:-1,TLC USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3614
+#EXTINF:-1,HALLMARK USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3615
+#EXTINF:-1,LIFETIME USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3616
+#EXTINF:-1,UP USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3617
+#EXTINF:-1,BRAVO USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3618
+#EXTINF:-1,OWN USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3619
+#EXTINF:-1,OVATION USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3620
+#EXTINF:-1,E! USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3621
+#EXTINF:-1,DISCOVERY CHANNEL USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3622
+#EXTINF:-1,NAT GEO USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3623
+#EXTINF:-1,ID USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3624
+#EXTINF:-1,SCIENCE USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3625
+#EXTINF:-1,ANIMAL PLANET USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3626
+#EXTINF:-1,SMITHSONIAN USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3627
+#EXTINF:-1,HISTORY USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3628
+#EXTINF:-1,DESTINATION AMERICA USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3629
+#EXTINF:-1,AHC USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3630
+#EXTINF:-1,FOOD NETWORK USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3631
+#EXTINF:-1,COOKING CHANNEL USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3632
+#EXTINF:-1,TRAVEL CHANNEL USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3633
+#EXTINF:-1,HGTV USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3634
+#EXTINF:-1,DIY USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3635
+#EXTINF:-1,MOTORTREND USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3636
+#EXTINF:-1,AMC USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3637
+#EXTINF:-1,FX USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3638
+#EXTINF:-1,FXX USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3639
+#EXTINF:-1,SYFY USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3640
+#EXTINF:-1,PARAMOUNT NETWORK USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3641
+#EXTINF:-1,FXM USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3642
+#EXTINF:-1,SUNDANCE USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3643
+#EXTINF:-1,IFC USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3644
+#EXTINF:-1,SONY MOVIES USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3645
+#EXTINF:-1,HBO USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3646
+#EXTINF:-1,SHOWTIME USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3647
+#EXTINF:-1,CINEMAX USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3648
+#EXTINF:-1,STARZ USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3649
+#EXTINF:-1,EPIX USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3650
+#EXTINF:-1,INDIE PLEX USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3651
+#EXTINF:-1,THE MOVIE CHANNEL USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3652
+#EXTINF:-1,MGM USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3653
+#EXTINF:-1,CNBC USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3714
+#EXTINF:-1,ESPN News USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3654
+#EXTINF:-1,ESPN U USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3655
+#EXTINF:-1,NFL USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3656
+#EXTINF:-1,NBA USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3657
+#EXTINF:-1,MLB USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3658
+#EXTINF:-1,NHL USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3659
+#EXTINF:-1,FS1 USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3660
+#EXTINF:-1,FS2 USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3661
+#EXTINF:-1,NBC Sports USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3662
+#EXTINF:-1,CBS Sports USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3663
+#EXTINF:-1,MARQUEE Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3664
+#EXTINF:-1,MSG USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3665
+#EXTINF:-1,MASN USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3666
+#EXTINF:-1,NESN USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3667
+#EXTINF:-1,YES Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3668
+#EXTINF:-1,SportsNET New York USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3669
+#EXTINF:-1,SportsNET Southwest USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3670
+#EXTINF:-1,Bally Sports Detroit USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3671
+#EXTINF:-1,Bally Sports Ohio USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3672
+#EXTINF:-1,Root Sports USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3673
+#EXTINF:-1,Big Ten Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3674
+#EXTINF:-1,ACC Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3675
+#EXTINF:-1,Longhorn Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3676
+#EXTINF:-1,BeIN Sports USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3677
+#EXTINF:-1,BeIN Sports Xtra USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3678
+#EXTINF:-1,NBC Golf USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3679
+#EXTINF:-1,Tennis USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3680
+#EXTINF:-1,Fight Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3681
+#EXTINF:-1,WWE USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3682
+#EXTINF:-1,PAC 12 Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3687
+#EXTINF:-1,ESPN 2 USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3684
+#EXTINF:-1,NBC Sports Chicago USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3685
+#EXTINF:-1,SEC Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3686
+#EXTINF:-1,Fox Soccer Plus USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3688
+#EXTINF:-1,ESPN USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3683
+
+
+
 //// Fishing tv ////
 #EXTINF:-1 tvg-id="Fishing TV" tvg-name="Fishing TV" tvg-country="US" tvg-language="" tvg-logo="https://dcassetcdn.com/design_img/3189415/114738/114738_18052718_3189415_d6354865_image.jpg"tvg-url="" group-title="FishingTV",Fishing TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af39510fd17b31a528eda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -640,8 +881,8 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365e
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.jpg" group-title="Lifestyle",AFN
-http://iptv.tvmalaysia.cc:80/422072/422072/6693
 https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+http://iptv.tvmalaysia.cc:80/422072/422072/6693
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" group-title="Lifestyle",Food Network HD 
 https://tv4.live/api/stream/dmrwolfieofficial@gmail.com/357164/livetv.epg/food.network.usa.eastern.us.m3u8
