@@ -2478,7 +2478,19 @@ http://host4.dynns.com/stream/78f57ebcf6064b308d75208a20756983.m3u8
 
 ////Livetv////
 #EXTM3U url-tvg=https://bit.ly/3itZsSm
-#EXTINF: -1 tvg-name="Gratis"  group-title="LIVETV", Oversea Channel
+#EXTINF: -1 tvg-name="Gratis"  group-title="SHam-LIVETV", 
+https://emoji.mrz.kn
+#EXTINF: -1 tvg-name="Gratis"  group-title="SHam-LIVETV", 
+https://yt.by.mrzdox
+#EXTINF: -1 tvg-name="Gratis"  group-title="SHam-LIVETV", 
+https://bla.bla.bla
+#EXTINF: -1 tvg-name="Gratis"  group-title="SHam-LIVETV",
+https://com.web.browser
+#EXTINF: -1 tvg-name="Gratis"  group-title="SHam-LIVETV", 
+https://channel.mbed.cc/yt.php?id=kJktXIT2U8k
+#EXTINF: -1 tvg-name="Gratis"  group-title="SHam-LIVETV", 
+https://channel.mbed.cc/yt.php?id=SwYO80ArYv4
+http://api.mbed.cc/yt.php?id=SwYO80ArYv4
 https://emoji.mrz.kn
 #EXTINF:-1,Telecine Action HD
 http://livetv2021.site:8080/9897876765/6576567/1
