@@ -548,7 +548,7 @@ https://p2p-ns1.sage.stream/hls/trolls-world-tour-2020/index.m3u8
 #EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/8wxLpgP.jpg",Moana (2016)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960933
 
-#EXTINF:-1 group-title="Shinchan" tvg-logo="https://image.tmdb.org/t/p/w185/4ZSzEDVdxWVMVO4oZDvoodQOEfr.jpg", Secret Magic Control Agency
+#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="https://image.tmdb.org/t/p/w185/4ZSzEDVdxWVMVO4oZDvoodQOEfr.jpg", Secret Magic Control Agency
 https://www.googleapis.com/drive/v3/files/14cRnRq7jcScnc1-5SYC_4OqgA_Q4Peqv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 /// Shinchan VOD ///
@@ -588,627 +588,6 @@ http://50.7.161.82:8277/streams/d/bollyone_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Hindi",MAHA MOVIE
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-
-////Livetv////
-#EXTM3U url-tvg=https://bit.ly/3itZsSm
-#EXTINF: -1 tvg-name="Gratis"  group-title="SHam-LIVETV", a
-https://emoji.mrz.kn
-#EXTINF: -1 tvg-name="Gratis"  group-title="SHam-LIVETV", b
-https://yt.by.mrzdox
-#EXTINF: -1 tvg-name="Gratis"  group-title="SHam-LIVETV", c
-https://bla.bla.bla
-#EXTINF: -1 tvg-name="Gratis"  group-title="SHam-LIVETV", d
-https://com.web.browser
-#EXTINF: -1 tvg-name="Gratis"  group-title="SHam-LIVETV", e
-https://channel.mbed.cc/yt.php?id=kJktXIT2U8k
-#EXTINF: -1 tvg-name="Gratis"  group-title="SHam-LIVETV", f
-https://channel.mbed.cc/yt.php?id=SwYO80ArYv4
-http://api.mbed.cc/yt.php?id=SwYO80ArYv4
-https://emoji.mrz.kn
-#EXTINF:-1,Telecine Action HD
-http://livetv2021.site:8080/9897876765/6576567/1
-#EXTINF:-1,Telecine Touch HD
-http://livetv2021.site:8080/9897876765/6576567/2
-#EXTINF:-1,Rede Massa - SBT HD
-http://livetv2021.site:8080/9897876765/6576567/54
-#EXTINF:-1,Sportv  UHD
-http://livetv2021.site:8080/9897876765/6576567/55
-#EXTINF:-1,Sportv HD
-http://livetv2021.site:8080/9897876765/6576567/56
-#EXTINF:-1,STAR CHANNEL HEVC
-http://livetv2021.site:8080/9897876765/6576567/57
-#EXTINF:-1,STAR CHANNEL HD
-http://livetv2021.site:8080/9897876765/6576567/58
-#EXTINF:-1,Telecine Premium HD
-http://livetv2021.site:8080/9897876765/6576567/59
-#EXTINF:-1,Telecine Premium HEVC
-http://livetv2021.site:8080/9897876765/6576567/60
-#EXTINF:-1,Telecine Action HEVC
-http://livetv2021.site:8080/9897876765/6576567/61
-#EXTINF:-1,Telecine Touch HEVC
-http://livetv2021.site:8080/9897876765/6576567/62
-#EXTINF:-1,Telecine Fun HD
-http://livetv2021.site:8080/9897876765/6576567/63
-#EXTINF:-1,Telecine Fun HEVC
-http://livetv2021.site:8080/9897876765/6576567/64
-#EXTINF:-1,Telecine Pipoca HD
-http://livetv2021.site:8080/9897876765/6576567/65
-#EXTINF:-1,Telecine Pipoca HEVC
-http://livetv2021.site:8080/9897876765/6576567/66
-#EXTINF:-1, SBT HD
-http://livetv2021.site:8080/9897876765/6576567/67
-#EXTINF:-1,SBT UHD
-http://livetv2021.site:8080/9897876765/6576567/68
-#EXTINF:-1,Woohoo HD
-http://livetv2021.site:8080/9897876765/6576567/69
-#EXTINF:-1,Woohoo 4K
-http://livetv2021.site:8080/9897876765/6576567/70
-#EXTINF:-1,AMC HD
-http://livetv2021.site:8080/9897876765/6576567/71
-#EXTINF:-1,AMC HEVC
-http://livetv2021.site:8080/9897876765/6576567/72
-#EXTINF:-1,Film & Arts HD
-http://livetv2021.site:8080/9897876765/6576567/73
-#EXTINF:-1,Film & Arts HEVC
-http://livetv2021.site:8080/9897876765/6576567/74
-#EXTINF:-1,Futura HD
-http://livetv2021.site:8080/9897876765/6576567/75
-#EXTINF:-1,TBS HD
-http://livetv2021.site:8080/9897876765/6576567/76
-#EXTINF:-1,NatGeo Kids HD
-http://livetv2021.site:8080/9897876765/6576567/77
-#EXTINF:-1,Discovery Science HD
-http://livetv2021.site:8080/9897876765/6576567/78
-#EXTINF:-1,Music Box HD
-http://livetv2021.site:8080/9897876765/6576567/79
-#EXTINF:-1,Globo HD RJ
-http://livetv2021.site:8080/9897876765/6576567/80
-#EXTINF:-1,Globo HD SP
-http://livetv2021.site:8080/9897876765/6576567/81
-#EXTINF:-1,Globo TV Bahia HD
-http://livetv2021.site:8080/9897876765/6576567/82
-#EXTINF:-1,Globo TV Verdes Mares HD
-http://livetv2021.site:8080/9897876765/6576567/83
-#EXTINF:-1,Globo HD Minas
-http://livetv2021.site:8080/9897876765/6576567/84
-#EXTINF:-1,Globo Nordeste HD
-http://livetv2021.site:8080/9897876765/6576567/85
-#EXTINF:-1,Globo TV Liberal HD Belém
-http://livetv2021.site:8080/9897876765/6576567/86
-#EXTINF:-1,Globo RBS TV HD Porto Alegre
-http://livetv2021.site:8080/9897876765/6576567/87
-#EXTINF:-1,Globo Rede Amazônica Manaus HD
-http://livetv2021.site:8080/9897876765/6576567/88
-#EXTINF:-1,Globo TV Tem HD Bauru
-http://livetv2021.site:8080/9897876765/6576567/89
-#EXTINF:-1,Globo EPTV HD Campinas
-http://livetv2021.site:8080/9897876765/6576567/90
-#EXTINF:-1,Globo Brasília HD
-http://livetv2021.site:8080/9897876765/6576567/91
-#EXTINF:-1,HGTV HD
-http://livetv2021.site:8080/9897876765/6576567/92
-#EXTINF:-1,HGTV HEVC
-http://livetv2021.site:8080/9897876765/6576567/93
-#EXTINF:-1,Globo TV Anhanguera Goiânia HD
-http://livetv2021.site:8080/9897876765/6576567/94
-#EXTINF:-1,TV Rá Tim Bum HD
-http://livetv2021.site:8080/9897876765/6576567/95
-#EXTINF:-1,Gloobinho HD
-http://livetv2021.site:8080/9897876765/6576567/96
-#EXTINF:-1,Gloobinho HEVC
-http://livetv2021.site:8080/9897876765/6576567/97
-#EXTINF:-1,FOX Sports HD
-http://livetv2021.site:8080/9897876765/6576567/98
-#EXTINF:-1,FOX Sports HEVC
-http://livetv2021.site:8080/9897876765/6576567/99
-#EXTINF:-1,Band Sports HD
-http://livetv2021.site:8080/9897876765/6576567/102
-#EXTINF:-1,Band Sports HEVC
-http://livetv2021.site:8080/9897876765/6576567/103
-#EXTINF:-1,RPC TV Curitiba - Globo HD
-http://livetv2021.site:8080/9897876765/6576567/104
-#EXTINF:-1,Cultura HD
-http://livetv2021.site:8080/9897876765/6576567/105
-#EXTINF:-1,Like HD
-http://livetv2021.site:8080/9897876765/6576567/106
-#EXTINF:-1,E! HD
-http://livetv2021.site:8080/9897876765/6576567/107
-#EXTINF:-1,Fish TV HD
-http://livetv2021.site:8080/9897876765/6576567/108
-#EXTINF:-1,Fish TV FHD
-http://livetv2021.site:8080/9897876765/6576567/109
-#EXTINF:-1,Band HD
-http://livetv2021.site:8080/9897876765/6576567/110
-#EXTINF:-1,Band HD+
-http://livetv2021.site:8080/9897876765/6576567/111
-#EXTINF:-1,Pai Eterno HD
-http://livetv2021.site:8080/9897876765/6576567/112
-#EXTINF:-1,SporTV3 HD
-http://livetv2021.site:8080/9897876765/6576567/113
-#EXTINF:-1,SporTV3 HEVC
-http://livetv2021.site:8080/9897876765/6576567/114
-#EXTINF:-1,Viva HD
-http://livetv2021.site:8080/9897876765/6576567/115
-#EXTINF:-1,Viva FHD
-http://livetv2021.site:8080/9897876765/6576567/116
-#EXTINF:-1,Canal Brasil HD
-http://livetv2021.site:8080/9897876765/6576567/117
-#EXTINF:-1,Canal Brasil FHD
-http://livetv2021.site:8080/9897876765/6576567/118
-#EXTINF:-1,Combate HD
-http://livetv2021.site:8080/9897876765/6576567/119
-#EXTINF:-1,Combate HEVC
-http://livetv2021.site:8080/9897876765/6576567/120
-#EXTINF:-1,Universal TV HD
-http://livetv2021.site:8080/9897876765/6576567/121
-#EXTINF:-1,Premiere Clubes HD
-http://livetv2021.site:8080/9897876765/6576567/122
-#EXTINF:-1,Premiere Clubes HEVC
-http://livetv2021.site:8080/9897876765/6576567/123
-#EXTINF:-1,Premiere 2 HD
-http://livetv2021.site:8080/9897876765/6576567/124
-#EXTINF:-1,HBO HD
-http://livetv2021.site:8080/9897876765/6576567/125
-#EXTINF:-1,HBO2 HD
-http://livetv2021.site:8080/9897876765/6576567/126
-#EXTINF:-1,HBO+ HD
-http://livetv2021.site:8080/9897876765/6576567/127
-#EXTINF:-1,Arte 1 HEVC
-http://livetv2021.site:8080/9897876765/6576567/128
-#EXTINF:-1,Arte 1 HD
-http://livetv2021.site:8080/9897876765/6576567/129
-#EXTINF:-1,HBO Family HD
-http://livetv2021.site:8080/9897876765/6576567/130
-#EXTINF:-1,HBO Signature HD
-http://livetv2021.site:8080/9897876765/6576567/131
-#EXTINF:-1,HBO POP HD
-http://livetv2021.site:8080/9897876765/6576567/132
-#EXTINF:-1,Rede Vida HD
-http://livetv2021.site:8080/9897876765/6576567/133
-#EXTINF:-1,Premiere 6 HD
-http://livetv2021.site:8080/9897876765/6576567/134
-#EXTINF:-1,Premiere 7 HD
-http://livetv2021.site:8080/9897876765/6576567/135
-#EXTINF:-1,Premiere 5 HD
-http://livetv2021.site:8080/9897876765/6576567/136
-#EXTINF:-1,RIC TV - RECORDTV
-http://livetv2021.site:8080/9897876765/6576567/137
-#EXTINF:-1,RedeTV! HD
-http://livetv2021.site:8080/9897876765/6576567/138
-#EXTINF:-1,Trace Brazuca HD
-http://livetv2021.site:8080/9897876765/6576567/139
-#EXTINF:-1,ESPN Brasil HD
-http://livetv2021.site:8080/9897876765/6576567/166
-#EXTINF:-1,ESPN HD
-http://livetv2021.site:8080/9897876765/6576567/167
-#EXTINF:-1,TNT HD
-http://livetv2021.site:8080/9897876765/6576567/168
-#EXTINF:-1,GloboNews HD
-http://livetv2021.site:8080/9897876765/6576567/169
-#EXTINF:-1,OFF HD
-http://livetv2021.site:8080/9897876765/6576567/170
-#EXTINF:-1,Mais na Tela HD
-http://livetv2021.site:8080/9897876765/6576567/171
-#EXTINF:-1,Gloob HD
-http://livetv2021.site:8080/9897876765/6576567/172
-#EXTINF:-1,BIS HD
-http://livetv2021.site:8080/9897876765/6576567/173
-#EXTINF:-1,Premiere 4 HD
-http://livetv2021.site:8080/9897876765/6576567/419
-#EXTINF:-1,Telecine Cult HD
-http://livetv2021.site:8080/9897876765/6576567/607
-#EXTINF:-1,AgroMais HD
-http://livetv2021.site:8080/9897876765/6576567/642
-#EXTINF:-1,TV Brasil HD
-http://livetv2021.site:8080/9897876765/6576567/643
-#EXTINF:-1,Baby TV HD
-http://livetv2021.site:8080/9897876765/6576567/644
-#EXTINF:-1,NHK HD
-http://livetv2021.site:8080/9897876765/6576567/645
-#EXTINF:-1,Studio Universal HD
-http://livetv2021.site:8080/9897876765/6576567/733
-#EXTINF:-1,CONMEBOL TV 4
-http://livetv2021.site:8080/9897876765/6576567/734
-#EXTINF:-1,Playboy TV UHD
-http://livetv2021.site:8080/9897876765/6576567/901
-#EXTINF:-1,STAR HITS 2 HD
-http://livetv2021.site:8080/9897876765/6576567/902
-#EXTINF:-1,Animal Planet HD
-http://livetv2021.site:8080/9897876765/6576567/929
-#EXTINF:-1,STAR HITS HD
-http://livetv2021.site:8080/9897876765/6576567/930
-#EXTINF:-1,Band News HD
-http://livetv2021.site:8080/9897876765/6576567/931
-#EXTINF:-1,Furacão live 4K
-http://livetv2021.site:8080/9897876765/6576567/932
-#EXTINF:-1,FOX Sports 2 HD
-http://livetv2021.site:8080/9897876765/6576567/100
-#EXTINF:-1,FOX Sports 2 HEVC
-http://livetv2021.site:8080/9897876765/6576567/101
-#EXTINF:-1,ESPN2 HD
-http://livetv2021.site:8080/9897876765/6576567/6618
-#EXTINF:-1,Sabor & Arte HD
-http://livetv2021.site:8080/9897876765/6576567/6619
-#EXTINF:-1,Nickelodeon HD
-http://livetv2021.site:8080/9897876765/6576567/6620
-#EXTINF:-1,Nick Jr. HD
-http://livetv2021.site:8080/9897876765/6576567/6621
-#EXTINF:-1,France 24 HD
-http://livetv2021.site:8080/9897876765/6576567/6622
-#EXTINF:-1,SporTV2 HD
-http://livetv2021.site:8080/9897876765/6576567/6623
-#EXTINF:-1,Premiere 3 HD
-http://livetv2021.site:8080/9897876765/6576567/6624
-#EXTINF:-1,GNT HD
-http://livetv2021.site:8080/9897876765/6576567/6625
-#EXTINF:-1,ESPN Extra HD
-http://livetv2021.site:8080/9897876765/6576567/6626
-#EXTINF:-1,Multishow HD
-http://livetv2021.site:8080/9897876765/6576567/6642
-#EXTINF:-1,Fashion TV HD
-http://livetv2021.site:8080/9897876765/6576567/6643
-#EXTINF:-1,Travel Box Brazil HD
-http://livetv2021.site:8080/9897876765/6576567/6644
-#EXTINF:-1,History 2 HD
-http://livetv2021.site:8080/9897876765/6576567/6645
-#EXTINF:-1,MTV LIVE HD
-http://livetv2021.site:8080/9897876765/6576567/6646
-#EXTINF:-1,A&E HD
-http://livetv2021.site:8080/9897876765/6576567/6647
-#EXTINF:-1,TV Novo Tempo HD
-http://livetv2021.site:8080/9897876765/6576567/6648
-#EXTINF:-1,History HD
-http://livetv2021.site:8080/9897876765/6576567/6649
-#EXTINF:-1,Warner Channel HD
-http://livetv2021.site:8080/9897876765/6576567/6650
-#EXTINF:-1,Canal Sony HD
-http://livetv2021.site:8080/9897876765/6576567/6651
-#EXTINF:-1,TLC HD
-http://livetv2021.site:8080/9897876765/6576567/6652
-#EXTINF:-1,Curta! HD
-http://livetv2021.site:8080/9897876765/6576567/6653
-#EXTINF:-1,DOG TV HD
-http://livetv2021.site:8080/9897876765/6576567/6654
-#EXTINF:-1,Discovery Channel HD
-http://livetv2021.site:8080/9897876765/6576567/6655
-#EXTINF:-1,Discovery Kids HD
-http://livetv2021.site:8080/9897876765/6576567/6656
-#EXTINF:-1,Boomerang HD
-http://livetv2021.site:8080/9897876765/6576567/6657
-#EXTINF:-1,Nat Geo Kids HD
-http://livetv2021.site:8080/9897876765/6576567/6658
-#EXTINF:-1,Music Box Brazil HD
-http://livetv2021.site:8080/9897876765/6576567/6659
-#EXTINF:-1,Prime Box Brazil HD
-http://livetv2021.site:8080/9897876765/6576567/6660
-#EXTINF:-1,Canal do Boi HD
-http://livetv2021.site:8080/9897876765/6576567/6661
-#EXTINF:-1,Discovery Theater HD
-http://livetv2021.site:8080/9897876765/6576567/6662
-#EXTINF:-1,Discovery World HD
-http://livetv2021.site:8080/9897876765/6576567/6663
-#EXTINF:-1,Cartoon Network HD
-http://livetv2021.site:8080/9897876765/6576567/6664
-#EXTINF:-1,ID HD
-http://livetv2021.site:8080/9897876765/6576567/6665
-#EXTINF:-1,RPC TV Curitiba HD
-http://livetv2021.site:8080/9897876765/6576567/6666
-#EXTINF:-1,TNT Séries HD
-http://livetv2021.site:8080/9897876765/6576567/6667
-#EXTINF:-1,Rede TV HD
-http://livetv2021.site:8080/9897876765/6576567/6668
-#EXTINF:-1,Eurochannel HD
-http://livetv2021.site:8080/9897876765/6576567/6669
-#EXTINF:-1,Zoomoo HD
-http://livetv2021.site:8080/9897876765/6576567/6670
-#EXTINF:-1,TV Aparecida
-http://livetv2021.site:8080/9897876765/6576567/6671
-#EXTINF:-1,Space HD
-http://livetv2021.site:8080/9897876765/6576567/6672
-#EXTINF:-1,AXN HD
-http://livetv2021.site:8080/9897876765/6576567/6698
-#EXTINF:-1,RECORDTV HD
-http://livetv2021.site:8080/9897876765/6576567/6742
-#EXTINF:-1,STAR LIFE HD
-http://livetv2021.site:8080/9897876765/6576567/6744
-#EXTINF:-1,MTV 00's HD
-http://livetv2021.site:8080/9897876765/6576567/6894
-#EXTINF:-1,JP News UHD
-http://livetv2021.site:8080/9897876765/6576567/7132
-#EXTINF:-1,LOVE NATURE 4K
-http://livetv2021.site:8080/9897876765/6576567/8321
-#EXTINF:-1,GLOBO SP HD
-http://livetv2021.site:8080/9897876765/6576567/8402
-#EXTINF:-1,HBO Mundi HD
-http://livetv2021.site:8080/9897876765/6576567/8473
-#EXTINF:-1,HBO Xtreme HD
-http://livetv2021.site:8080/9897876765/6576567/8474
-#EXTINF:-1,Telecine Action
-http://livetv2021.site:8080/9897876765/6576567/8765
-#EXTINF:-1,Telecine Action 2K
-http://livetv2021.site:8080/9897876765/6576567/8766
-#EXTINF:-1,Cartoon HD
-http://livetv2021.site:8080/9897876765/6576567/8831
-#EXTINF:-1,Cartoon UHD
-http://livetv2021.site:8080/9897876765/6576567/8832
-#EXTINF:-1,CNN BRASIL HD
-http://livetv2021.site:8080/9897876765/6576567/8833
-#EXTINF:-1,Comedy Central HD
-http://livetv2021.site:8080/9897876765/6576567/8834
-#EXTINF:-1,CONMEBOL TV 1
-http://livetv2021.site:8080/9897876765/6576567/8835
-#EXTINF:-1,CONMEBOL TV 2
-http://livetv2021.site:8080/9897876765/6576567/8836
-#EXTINF:-1,CONMEBOL TV 3
-http://livetv2021.site:8080/9897876765/6576567/8837
-#EXTINF:-1,Disc. Home & Health FHD HVEC
-http://livetv2021.site:8080/9897876765/6576567/8838
-#EXTINF:-1,Disc. Home & Health HD
-http://livetv2021.site:8080/9897876765/6576567/8839
-#EXTINF:-1,Disney Channel HD
-http://livetv2021.site:8080/9897876765/6576567/8840
-#EXTINF:-1,Disney Channel 
-http://livetv2021.site:8080/9897876765/6576567/8841
-#EXTINF:-1,Disney Junior HD
-http://livetv2021.site:8080/9897876765/6576567/8842
-#EXTINF:-1,Food Network HD
-http://livetv2021.site:8080/9897876765/6576567/8843
-#EXTINF:-1,FX HD
-http://livetv2021.site:8080/9897876765/6576567/8844
-#EXTINF:-1,Lifetime HD
-http://livetv2021.site:8080/9897876765/6576567/8845
-#EXTINF:-1,Megapix HD
-http://livetv2021.site:8080/9897876765/6576567/8846
-#EXTINF:-1,MTV HD
-http://livetv2021.site:8080/9897876765/6576567/8847
-#EXTINF:-1,NatGeo Wild FHD HVEC
-http://livetv2021.site:8080/9897876765/6576567/8848
-#EXTINF:-1,NatGeo Wild HD
-http://livetv2021.site:8080/9897876765/6576567/8849
-#EXTINF:-1,National Geographic FHD HVEC
-http://livetv2021.site:8080/9897876765/6576567/8850
-#EXTINF:-1,National Geographic HD
-http://livetv2021.site:8080/9897876765/6576567/8851
-#EXTINF:-1,Sextreme HD
-http://livetv2021.site:8080/9897876765/6576567/8852
-#EXTINF:-1,Sexy Hot HD
-http://livetv2021.site:8080/9897876765/6576567/8853
-#EXTINF:-1,SYFY HD
-http://livetv2021.site:8080/9897876765/6576567/8854
-#EXTINF:-1,VENUS HD
-http://livetv2021.site:8080/9897876765/6576567/8855
-
-
-/// Channel USA///
-#EXTM3U url-tvg=https://bit.ly/3itZsSm
-#EXTINF: -1 tvg-name="Gratis"  group-title="Channel USA", USA CHannel
-https://emoji.mrz.kn
-#EXTM3U
-#EXTINF:-1,Baby First USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3689
-#EXTINF:-1,PBS Kids USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3690
-#EXTINF:-1,Disney Channel USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3691
-#EXTINF:-1,Disney XD USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3692
-#EXTINF:-1,Disney Junior USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3693
-#EXTINF:-1,Nickelodeon USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3694
-#EXTINF:-1,Nick Jr USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3695
-#EXTINF:-1,Nicktoons USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3696
-#EXTINF:-1,TeenNick USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3697
-#EXTINF:-1,Boomerang USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3698
-#EXTINF:-1,Cartoon Network USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3699
-#EXTINF:-1,Universal Kids USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3700
-#EXTINF:-1,Freeform USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3701
-#EXTINF:-1,HBO Family USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3702
-#EXTINF:-1,Showtime Family Zone USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3703
-#EXTINF:-1,Starz Kids & Family USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3704
-#EXTINF:-1,ABC Detroit USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3594
-#EXTINF:-1,FOX Detroit USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3595
-#EXTINF:-1,NBC Detroit USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3596
-#EXTINF:-1,CBS Detroit USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3597
-#EXTINF:-1,ABC Chicago USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3598
-#EXTINF:-1,FOX Chicago USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3599
-#EXTINF:-1,NBC Chicago USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3600
-#EXTINF:-1,CBS Chicago USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3601
-#EXTINF:-1,CW USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3602
-#EXTINF:-1,PBS USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3603
-#EXTINF:-1,A&E USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3604
-#EXTINF:-1,USA Network USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3605
-#EXTINF:-1,TNT USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3606
-#EXTINF:-1,BBC AMERICA USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3607
-#EXTINF:-1,POP USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3608
-#EXTINF:-1,WE TV USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3609
-#EXTINF:-1,TRU TV USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3610
-#EXTINF:-1,TBS USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3611
-#EXTINF:-1,COMEDY CENTRAL USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3612
-#EXTINF:-1,VICE USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3613
-#EXTINF:-1,TLC USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3614
-#EXTINF:-1,HALLMARK USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3615
-#EXTINF:-1,LIFETIME USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3616
-#EXTINF:-1,UP USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3617
-#EXTINF:-1,BRAVO USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3618
-#EXTINF:-1,OWN USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3619
-#EXTINF:-1,OVATION USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3620
-#EXTINF:-1,E! USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3621
-#EXTINF:-1,DISCOVERY CHANNEL USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3622
-#EXTINF:-1,NAT GEO USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3623
-#EXTINF:-1,ID USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3624
-#EXTINF:-1,SCIENCE USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3625
-#EXTINF:-1,ANIMAL PLANET USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3626
-#EXTINF:-1,SMITHSONIAN USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3627
-#EXTINF:-1,HISTORY USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3628
-#EXTINF:-1,DESTINATION AMERICA USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3629
-#EXTINF:-1,AHC USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3630
-#EXTINF:-1,FOOD NETWORK USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3631
-#EXTINF:-1,COOKING CHANNEL USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3632
-#EXTINF:-1,TRAVEL CHANNEL USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3633
-#EXTINF:-1,HGTV USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3634
-#EXTINF:-1,DIY USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3635
-#EXTINF:-1,MOTORTREND USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3636
-#EXTINF:-1,AMC USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3637
-#EXTINF:-1,FX USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3638
-#EXTINF:-1,FXX USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3639
-#EXTINF:-1,SYFY USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3640
-#EXTINF:-1,PARAMOUNT NETWORK USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3641
-#EXTINF:-1,FXM USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3642
-#EXTINF:-1,SUNDANCE USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3643
-#EXTINF:-1,IFC USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3644
-#EXTINF:-1,SONY MOVIES USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3645
-#EXTINF:-1,HBO USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3646
-#EXTINF:-1,SHOWTIME USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3647
-#EXTINF:-1,CINEMAX USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3648
-#EXTINF:-1,STARZ USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3649
-#EXTINF:-1,EPIX USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3650
-#EXTINF:-1,INDIE PLEX USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3651
-#EXTINF:-1,THE MOVIE CHANNEL USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3652
-#EXTINF:-1,MGM USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3653
-#EXTINF:-1,CNBC USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3714
-#EXTINF:-1,ESPN News USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3654
-#EXTINF:-1,ESPN U USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3655
-#EXTINF:-1,NFL USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3656
-#EXTINF:-1,NBA USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3657
-#EXTINF:-1,MLB USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3658
-#EXTINF:-1,NHL USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3659
-#EXTINF:-1,FS1 USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3660
-#EXTINF:-1,FS2 USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3661
-#EXTINF:-1,NBC Sports USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3662
-#EXTINF:-1,CBS Sports USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3663
-#EXTINF:-1,MARQUEE Network USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3664
-#EXTINF:-1,MSG USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3665
-#EXTINF:-1,MASN USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3666
-#EXTINF:-1,NESN USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3667
-#EXTINF:-1,YES Network USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3668
-#EXTINF:-1,SportsNET New York USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3669
-#EXTINF:-1,SportsNET Southwest USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3670
-#EXTINF:-1,Bally Sports Detroit USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3671
-#EXTINF:-1,Bally Sports Ohio USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3672
-#EXTINF:-1,Root Sports USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3673
-#EXTINF:-1,Big Ten Network USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3674
-#EXTINF:-1,ACC Network USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3675
-#EXTINF:-1,Longhorn Network USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3676
-#EXTINF:-1,BeIN Sports USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3677
-#EXTINF:-1,BeIN Sports Xtra USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3678
-#EXTINF:-1,NBC Golf USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3679
-#EXTINF:-1,Tennis USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3680
-#EXTINF:-1,Fight Network USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3681
-#EXTINF:-1,WWE USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3682
-#EXTINF:-1,PAC 12 Network USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3687
-#EXTINF:-1,ESPN 2 USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3684
-#EXTINF:-1,NBC Sports Chicago USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3685
-#EXTINF:-1,SEC Network USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3686
-#EXTINF:-1,Fox Soccer Plus USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3688
-#EXTINF:-1,ESPN USA
-http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3683
-
 
 
 //// Fishing tv ////
@@ -3675,6 +3054,626 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959697
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959701
 #EXTINF:-1 group-title="VOD | WARKOP DKI" tvg-logo="https://image.tmdb.org/t/p/w200//52x4es5B6G2TGH6XH7CWXdpxNPH.jpg" ,Salah Masuk (1993)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959700
+
+////Livetv////
+#EXTM3U url-tvg=https://bit.ly/3itZsSm
+#EXTINF: -1 tvg-name="Gratis"  group-title="SHam-LIVETV", a
+https://emoji.mrz.kn
+#EXTINF: -1 tvg-name="Gratis"  group-title="SHam-LIVETV", b
+https://yt.by.mrzdox
+#EXTINF: -1 tvg-name="Gratis"  group-title="SHam-LIVETV", c
+https://bla.bla.bla
+#EXTINF: -1 tvg-name="Gratis"  group-title="SHam-LIVETV", d
+https://com.web.browser
+#EXTINF: -1 tvg-name="Gratis"  group-title="SHam-LIVETV", e
+https://channel.mbed.cc/yt.php?id=kJktXIT2U8k
+#EXTINF: -1 tvg-name="Gratis"  group-title="SHam-LIVETV", f
+https://channel.mbed.cc/yt.php?id=SwYO80ArYv4
+http://api.mbed.cc/yt.php?id=SwYO80ArYv4
+https://emoji.mrz.kn
+#EXTINF:-1,Telecine Action HD
+http://livetv2021.site:8080/9897876765/6576567/1
+#EXTINF:-1,Telecine Touch HD
+http://livetv2021.site:8080/9897876765/6576567/2
+#EXTINF:-1,Rede Massa - SBT HD
+http://livetv2021.site:8080/9897876765/6576567/54
+#EXTINF:-1,Sportv  UHD
+http://livetv2021.site:8080/9897876765/6576567/55
+#EXTINF:-1,Sportv HD
+http://livetv2021.site:8080/9897876765/6576567/56
+#EXTINF:-1,STAR CHANNEL HEVC
+http://livetv2021.site:8080/9897876765/6576567/57
+#EXTINF:-1,STAR CHANNEL HD
+http://livetv2021.site:8080/9897876765/6576567/58
+#EXTINF:-1,Telecine Premium HD
+http://livetv2021.site:8080/9897876765/6576567/59
+#EXTINF:-1,Telecine Premium HEVC
+http://livetv2021.site:8080/9897876765/6576567/60
+#EXTINF:-1,Telecine Action HEVC
+http://livetv2021.site:8080/9897876765/6576567/61
+#EXTINF:-1,Telecine Touch HEVC
+http://livetv2021.site:8080/9897876765/6576567/62
+#EXTINF:-1,Telecine Fun HD
+http://livetv2021.site:8080/9897876765/6576567/63
+#EXTINF:-1,Telecine Fun HEVC
+http://livetv2021.site:8080/9897876765/6576567/64
+#EXTINF:-1,Telecine Pipoca HD
+http://livetv2021.site:8080/9897876765/6576567/65
+#EXTINF:-1,Telecine Pipoca HEVC
+http://livetv2021.site:8080/9897876765/6576567/66
+#EXTINF:-1, SBT HD
+http://livetv2021.site:8080/9897876765/6576567/67
+#EXTINF:-1,SBT UHD
+http://livetv2021.site:8080/9897876765/6576567/68
+#EXTINF:-1,Woohoo HD
+http://livetv2021.site:8080/9897876765/6576567/69
+#EXTINF:-1,Woohoo 4K
+http://livetv2021.site:8080/9897876765/6576567/70
+#EXTINF:-1,AMC HD
+http://livetv2021.site:8080/9897876765/6576567/71
+#EXTINF:-1,AMC HEVC
+http://livetv2021.site:8080/9897876765/6576567/72
+#EXTINF:-1,Film & Arts HD
+http://livetv2021.site:8080/9897876765/6576567/73
+#EXTINF:-1,Film & Arts HEVC
+http://livetv2021.site:8080/9897876765/6576567/74
+#EXTINF:-1,Futura HD
+http://livetv2021.site:8080/9897876765/6576567/75
+#EXTINF:-1,TBS HD
+http://livetv2021.site:8080/9897876765/6576567/76
+#EXTINF:-1,NatGeo Kids HD
+http://livetv2021.site:8080/9897876765/6576567/77
+#EXTINF:-1,Discovery Science HD
+http://livetv2021.site:8080/9897876765/6576567/78
+#EXTINF:-1,Music Box HD
+http://livetv2021.site:8080/9897876765/6576567/79
+#EXTINF:-1,Globo HD RJ
+http://livetv2021.site:8080/9897876765/6576567/80
+#EXTINF:-1,Globo HD SP
+http://livetv2021.site:8080/9897876765/6576567/81
+#EXTINF:-1,Globo TV Bahia HD
+http://livetv2021.site:8080/9897876765/6576567/82
+#EXTINF:-1,Globo TV Verdes Mares HD
+http://livetv2021.site:8080/9897876765/6576567/83
+#EXTINF:-1,Globo HD Minas
+http://livetv2021.site:8080/9897876765/6576567/84
+#EXTINF:-1,Globo Nordeste HD
+http://livetv2021.site:8080/9897876765/6576567/85
+#EXTINF:-1,Globo TV Liberal HD Belém
+http://livetv2021.site:8080/9897876765/6576567/86
+#EXTINF:-1,Globo RBS TV HD Porto Alegre
+http://livetv2021.site:8080/9897876765/6576567/87
+#EXTINF:-1,Globo Rede Amazônica Manaus HD
+http://livetv2021.site:8080/9897876765/6576567/88
+#EXTINF:-1,Globo TV Tem HD Bauru
+http://livetv2021.site:8080/9897876765/6576567/89
+#EXTINF:-1,Globo EPTV HD Campinas
+http://livetv2021.site:8080/9897876765/6576567/90
+#EXTINF:-1,Globo Brasília HD
+http://livetv2021.site:8080/9897876765/6576567/91
+#EXTINF:-1,HGTV HD
+http://livetv2021.site:8080/9897876765/6576567/92
+#EXTINF:-1,HGTV HEVC
+http://livetv2021.site:8080/9897876765/6576567/93
+#EXTINF:-1,Globo TV Anhanguera Goiânia HD
+http://livetv2021.site:8080/9897876765/6576567/94
+#EXTINF:-1,TV Rá Tim Bum HD
+http://livetv2021.site:8080/9897876765/6576567/95
+#EXTINF:-1,Gloobinho HD
+http://livetv2021.site:8080/9897876765/6576567/96
+#EXTINF:-1,Gloobinho HEVC
+http://livetv2021.site:8080/9897876765/6576567/97
+#EXTINF:-1,FOX Sports HD
+http://livetv2021.site:8080/9897876765/6576567/98
+#EXTINF:-1,FOX Sports HEVC
+http://livetv2021.site:8080/9897876765/6576567/99
+#EXTINF:-1,Band Sports HD
+http://livetv2021.site:8080/9897876765/6576567/102
+#EXTINF:-1,Band Sports HEVC
+http://livetv2021.site:8080/9897876765/6576567/103
+#EXTINF:-1,RPC TV Curitiba - Globo HD
+http://livetv2021.site:8080/9897876765/6576567/104
+#EXTINF:-1,Cultura HD
+http://livetv2021.site:8080/9897876765/6576567/105
+#EXTINF:-1,Like HD
+http://livetv2021.site:8080/9897876765/6576567/106
+#EXTINF:-1,E! HD
+http://livetv2021.site:8080/9897876765/6576567/107
+#EXTINF:-1,Fish TV HD
+http://livetv2021.site:8080/9897876765/6576567/108
+#EXTINF:-1,Fish TV FHD
+http://livetv2021.site:8080/9897876765/6576567/109
+#EXTINF:-1,Band HD
+http://livetv2021.site:8080/9897876765/6576567/110
+#EXTINF:-1,Band HD+
+http://livetv2021.site:8080/9897876765/6576567/111
+#EXTINF:-1,Pai Eterno HD
+http://livetv2021.site:8080/9897876765/6576567/112
+#EXTINF:-1,SporTV3 HD
+http://livetv2021.site:8080/9897876765/6576567/113
+#EXTINF:-1,SporTV3 HEVC
+http://livetv2021.site:8080/9897876765/6576567/114
+#EXTINF:-1,Viva HD
+http://livetv2021.site:8080/9897876765/6576567/115
+#EXTINF:-1,Viva FHD
+http://livetv2021.site:8080/9897876765/6576567/116
+#EXTINF:-1,Canal Brasil HD
+http://livetv2021.site:8080/9897876765/6576567/117
+#EXTINF:-1,Canal Brasil FHD
+http://livetv2021.site:8080/9897876765/6576567/118
+#EXTINF:-1,Combate HD
+http://livetv2021.site:8080/9897876765/6576567/119
+#EXTINF:-1,Combate HEVC
+http://livetv2021.site:8080/9897876765/6576567/120
+#EXTINF:-1,Universal TV HD
+http://livetv2021.site:8080/9897876765/6576567/121
+#EXTINF:-1,Premiere Clubes HD
+http://livetv2021.site:8080/9897876765/6576567/122
+#EXTINF:-1,Premiere Clubes HEVC
+http://livetv2021.site:8080/9897876765/6576567/123
+#EXTINF:-1,Premiere 2 HD
+http://livetv2021.site:8080/9897876765/6576567/124
+#EXTINF:-1,HBO HD
+http://livetv2021.site:8080/9897876765/6576567/125
+#EXTINF:-1,HBO2 HD
+http://livetv2021.site:8080/9897876765/6576567/126
+#EXTINF:-1,HBO+ HD
+http://livetv2021.site:8080/9897876765/6576567/127
+#EXTINF:-1,Arte 1 HEVC
+http://livetv2021.site:8080/9897876765/6576567/128
+#EXTINF:-1,Arte 1 HD
+http://livetv2021.site:8080/9897876765/6576567/129
+#EXTINF:-1,HBO Family HD
+http://livetv2021.site:8080/9897876765/6576567/130
+#EXTINF:-1,HBO Signature HD
+http://livetv2021.site:8080/9897876765/6576567/131
+#EXTINF:-1,HBO POP HD
+http://livetv2021.site:8080/9897876765/6576567/132
+#EXTINF:-1,Rede Vida HD
+http://livetv2021.site:8080/9897876765/6576567/133
+#EXTINF:-1,Premiere 6 HD
+http://livetv2021.site:8080/9897876765/6576567/134
+#EXTINF:-1,Premiere 7 HD
+http://livetv2021.site:8080/9897876765/6576567/135
+#EXTINF:-1,Premiere 5 HD
+http://livetv2021.site:8080/9897876765/6576567/136
+#EXTINF:-1,RIC TV - RECORDTV
+http://livetv2021.site:8080/9897876765/6576567/137
+#EXTINF:-1,RedeTV! HD
+http://livetv2021.site:8080/9897876765/6576567/138
+#EXTINF:-1,Trace Brazuca HD
+http://livetv2021.site:8080/9897876765/6576567/139
+#EXTINF:-1,ESPN Brasil HD
+http://livetv2021.site:8080/9897876765/6576567/166
+#EXTINF:-1,ESPN HD
+http://livetv2021.site:8080/9897876765/6576567/167
+#EXTINF:-1,TNT HD
+http://livetv2021.site:8080/9897876765/6576567/168
+#EXTINF:-1,GloboNews HD
+http://livetv2021.site:8080/9897876765/6576567/169
+#EXTINF:-1,OFF HD
+http://livetv2021.site:8080/9897876765/6576567/170
+#EXTINF:-1,Mais na Tela HD
+http://livetv2021.site:8080/9897876765/6576567/171
+#EXTINF:-1,Gloob HD
+http://livetv2021.site:8080/9897876765/6576567/172
+#EXTINF:-1,BIS HD
+http://livetv2021.site:8080/9897876765/6576567/173
+#EXTINF:-1,Premiere 4 HD
+http://livetv2021.site:8080/9897876765/6576567/419
+#EXTINF:-1,Telecine Cult HD
+http://livetv2021.site:8080/9897876765/6576567/607
+#EXTINF:-1,AgroMais HD
+http://livetv2021.site:8080/9897876765/6576567/642
+#EXTINF:-1,TV Brasil HD
+http://livetv2021.site:8080/9897876765/6576567/643
+#EXTINF:-1,Baby TV HD
+http://livetv2021.site:8080/9897876765/6576567/644
+#EXTINF:-1,NHK HD
+http://livetv2021.site:8080/9897876765/6576567/645
+#EXTINF:-1,Studio Universal HD
+http://livetv2021.site:8080/9897876765/6576567/733
+#EXTINF:-1,CONMEBOL TV 4
+http://livetv2021.site:8080/9897876765/6576567/734
+#EXTINF:-1,Playboy TV UHD
+http://livetv2021.site:8080/9897876765/6576567/901
+#EXTINF:-1,STAR HITS 2 HD
+http://livetv2021.site:8080/9897876765/6576567/902
+#EXTINF:-1,Animal Planet HD
+http://livetv2021.site:8080/9897876765/6576567/929
+#EXTINF:-1,STAR HITS HD
+http://livetv2021.site:8080/9897876765/6576567/930
+#EXTINF:-1,Band News HD
+http://livetv2021.site:8080/9897876765/6576567/931
+#EXTINF:-1,Furacão live 4K
+http://livetv2021.site:8080/9897876765/6576567/932
+#EXTINF:-1,FOX Sports 2 HD
+http://livetv2021.site:8080/9897876765/6576567/100
+#EXTINF:-1,FOX Sports 2 HEVC
+http://livetv2021.site:8080/9897876765/6576567/101
+#EXTINF:-1,ESPN2 HD
+http://livetv2021.site:8080/9897876765/6576567/6618
+#EXTINF:-1,Sabor & Arte HD
+http://livetv2021.site:8080/9897876765/6576567/6619
+#EXTINF:-1,Nickelodeon HD
+http://livetv2021.site:8080/9897876765/6576567/6620
+#EXTINF:-1,Nick Jr. HD
+http://livetv2021.site:8080/9897876765/6576567/6621
+#EXTINF:-1,France 24 HD
+http://livetv2021.site:8080/9897876765/6576567/6622
+#EXTINF:-1,SporTV2 HD
+http://livetv2021.site:8080/9897876765/6576567/6623
+#EXTINF:-1,Premiere 3 HD
+http://livetv2021.site:8080/9897876765/6576567/6624
+#EXTINF:-1,GNT HD
+http://livetv2021.site:8080/9897876765/6576567/6625
+#EXTINF:-1,ESPN Extra HD
+http://livetv2021.site:8080/9897876765/6576567/6626
+#EXTINF:-1,Multishow HD
+http://livetv2021.site:8080/9897876765/6576567/6642
+#EXTINF:-1,Fashion TV HD
+http://livetv2021.site:8080/9897876765/6576567/6643
+#EXTINF:-1,Travel Box Brazil HD
+http://livetv2021.site:8080/9897876765/6576567/6644
+#EXTINF:-1,History 2 HD
+http://livetv2021.site:8080/9897876765/6576567/6645
+#EXTINF:-1,MTV LIVE HD
+http://livetv2021.site:8080/9897876765/6576567/6646
+#EXTINF:-1,A&E HD
+http://livetv2021.site:8080/9897876765/6576567/6647
+#EXTINF:-1,TV Novo Tempo HD
+http://livetv2021.site:8080/9897876765/6576567/6648
+#EXTINF:-1,History HD
+http://livetv2021.site:8080/9897876765/6576567/6649
+#EXTINF:-1,Warner Channel HD
+http://livetv2021.site:8080/9897876765/6576567/6650
+#EXTINF:-1,Canal Sony HD
+http://livetv2021.site:8080/9897876765/6576567/6651
+#EXTINF:-1,TLC HD
+http://livetv2021.site:8080/9897876765/6576567/6652
+#EXTINF:-1,Curta! HD
+http://livetv2021.site:8080/9897876765/6576567/6653
+#EXTINF:-1,DOG TV HD
+http://livetv2021.site:8080/9897876765/6576567/6654
+#EXTINF:-1,Discovery Channel HD
+http://livetv2021.site:8080/9897876765/6576567/6655
+#EXTINF:-1,Discovery Kids HD
+http://livetv2021.site:8080/9897876765/6576567/6656
+#EXTINF:-1,Boomerang HD
+http://livetv2021.site:8080/9897876765/6576567/6657
+#EXTINF:-1,Nat Geo Kids HD
+http://livetv2021.site:8080/9897876765/6576567/6658
+#EXTINF:-1,Music Box Brazil HD
+http://livetv2021.site:8080/9897876765/6576567/6659
+#EXTINF:-1,Prime Box Brazil HD
+http://livetv2021.site:8080/9897876765/6576567/6660
+#EXTINF:-1,Canal do Boi HD
+http://livetv2021.site:8080/9897876765/6576567/6661
+#EXTINF:-1,Discovery Theater HD
+http://livetv2021.site:8080/9897876765/6576567/6662
+#EXTINF:-1,Discovery World HD
+http://livetv2021.site:8080/9897876765/6576567/6663
+#EXTINF:-1,Cartoon Network HD
+http://livetv2021.site:8080/9897876765/6576567/6664
+#EXTINF:-1,ID HD
+http://livetv2021.site:8080/9897876765/6576567/6665
+#EXTINF:-1,RPC TV Curitiba HD
+http://livetv2021.site:8080/9897876765/6576567/6666
+#EXTINF:-1,TNT Séries HD
+http://livetv2021.site:8080/9897876765/6576567/6667
+#EXTINF:-1,Rede TV HD
+http://livetv2021.site:8080/9897876765/6576567/6668
+#EXTINF:-1,Eurochannel HD
+http://livetv2021.site:8080/9897876765/6576567/6669
+#EXTINF:-1,Zoomoo HD
+http://livetv2021.site:8080/9897876765/6576567/6670
+#EXTINF:-1,TV Aparecida
+http://livetv2021.site:8080/9897876765/6576567/6671
+#EXTINF:-1,Space HD
+http://livetv2021.site:8080/9897876765/6576567/6672
+#EXTINF:-1,AXN HD
+http://livetv2021.site:8080/9897876765/6576567/6698
+#EXTINF:-1,RECORDTV HD
+http://livetv2021.site:8080/9897876765/6576567/6742
+#EXTINF:-1,STAR LIFE HD
+http://livetv2021.site:8080/9897876765/6576567/6744
+#EXTINF:-1,MTV 00's HD
+http://livetv2021.site:8080/9897876765/6576567/6894
+#EXTINF:-1,JP News UHD
+http://livetv2021.site:8080/9897876765/6576567/7132
+#EXTINF:-1,LOVE NATURE 4K
+http://livetv2021.site:8080/9897876765/6576567/8321
+#EXTINF:-1,GLOBO SP HD
+http://livetv2021.site:8080/9897876765/6576567/8402
+#EXTINF:-1,HBO Mundi HD
+http://livetv2021.site:8080/9897876765/6576567/8473
+#EXTINF:-1,HBO Xtreme HD
+http://livetv2021.site:8080/9897876765/6576567/8474
+#EXTINF:-1,Telecine Action
+http://livetv2021.site:8080/9897876765/6576567/8765
+#EXTINF:-1,Telecine Action 2K
+http://livetv2021.site:8080/9897876765/6576567/8766
+#EXTINF:-1,Cartoon HD
+http://livetv2021.site:8080/9897876765/6576567/8831
+#EXTINF:-1,Cartoon UHD
+http://livetv2021.site:8080/9897876765/6576567/8832
+#EXTINF:-1,CNN BRASIL HD
+http://livetv2021.site:8080/9897876765/6576567/8833
+#EXTINF:-1,Comedy Central HD
+http://livetv2021.site:8080/9897876765/6576567/8834
+#EXTINF:-1,CONMEBOL TV 1
+http://livetv2021.site:8080/9897876765/6576567/8835
+#EXTINF:-1,CONMEBOL TV 2
+http://livetv2021.site:8080/9897876765/6576567/8836
+#EXTINF:-1,CONMEBOL TV 3
+http://livetv2021.site:8080/9897876765/6576567/8837
+#EXTINF:-1,Disc. Home & Health FHD HVEC
+http://livetv2021.site:8080/9897876765/6576567/8838
+#EXTINF:-1,Disc. Home & Health HD
+http://livetv2021.site:8080/9897876765/6576567/8839
+#EXTINF:-1,Disney Channel HD
+http://livetv2021.site:8080/9897876765/6576567/8840
+#EXTINF:-1,Disney Channel 
+http://livetv2021.site:8080/9897876765/6576567/8841
+#EXTINF:-1,Disney Junior HD
+http://livetv2021.site:8080/9897876765/6576567/8842
+#EXTINF:-1,Food Network HD
+http://livetv2021.site:8080/9897876765/6576567/8843
+#EXTINF:-1,FX HD
+http://livetv2021.site:8080/9897876765/6576567/8844
+#EXTINF:-1,Lifetime HD
+http://livetv2021.site:8080/9897876765/6576567/8845
+#EXTINF:-1,Megapix HD
+http://livetv2021.site:8080/9897876765/6576567/8846
+#EXTINF:-1,MTV HD
+http://livetv2021.site:8080/9897876765/6576567/8847
+#EXTINF:-1,NatGeo Wild FHD HVEC
+http://livetv2021.site:8080/9897876765/6576567/8848
+#EXTINF:-1,NatGeo Wild HD
+http://livetv2021.site:8080/9897876765/6576567/8849
+#EXTINF:-1,National Geographic FHD HVEC
+http://livetv2021.site:8080/9897876765/6576567/8850
+#EXTINF:-1,National Geographic HD
+http://livetv2021.site:8080/9897876765/6576567/8851
+#EXTINF:-1,Sextreme HD
+http://livetv2021.site:8080/9897876765/6576567/8852
+#EXTINF:-1,Sexy Hot HD
+http://livetv2021.site:8080/9897876765/6576567/8853
+#EXTINF:-1,SYFY HD
+http://livetv2021.site:8080/9897876765/6576567/8854
+#EXTINF:-1,VENUS HD
+http://livetv2021.site:8080/9897876765/6576567/8855
+
+
+/// Channel USA///
+#EXTM3U url-tvg=https://bit.ly/3itZsSm
+#EXTINF: -1 tvg-name="Gratis"  group-title="Channel USA", USA CHannel
+https://emoji.mrz.kn
+#EXTM3U
+#EXTINF:-1,Baby First USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3689
+#EXTINF:-1,PBS Kids USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3690
+#EXTINF:-1,Disney Channel USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3691
+#EXTINF:-1,Disney XD USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3692
+#EXTINF:-1,Disney Junior USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3693
+#EXTINF:-1,Nickelodeon USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3694
+#EXTINF:-1,Nick Jr USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3695
+#EXTINF:-1,Nicktoons USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3696
+#EXTINF:-1,TeenNick USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3697
+#EXTINF:-1,Boomerang USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3698
+#EXTINF:-1,Cartoon Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3699
+#EXTINF:-1,Universal Kids USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3700
+#EXTINF:-1,Freeform USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3701
+#EXTINF:-1,HBO Family USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3702
+#EXTINF:-1,Showtime Family Zone USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3703
+#EXTINF:-1,Starz Kids & Family USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3704
+#EXTINF:-1,ABC Detroit USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3594
+#EXTINF:-1,FOX Detroit USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3595
+#EXTINF:-1,NBC Detroit USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3596
+#EXTINF:-1,CBS Detroit USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3597
+#EXTINF:-1,ABC Chicago USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3598
+#EXTINF:-1,FOX Chicago USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3599
+#EXTINF:-1,NBC Chicago USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3600
+#EXTINF:-1,CBS Chicago USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3601
+#EXTINF:-1,CW USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3602
+#EXTINF:-1,PBS USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3603
+#EXTINF:-1,A&E USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3604
+#EXTINF:-1,USA Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3605
+#EXTINF:-1,TNT USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3606
+#EXTINF:-1,BBC AMERICA USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3607
+#EXTINF:-1,POP USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3608
+#EXTINF:-1,WE TV USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3609
+#EXTINF:-1,TRU TV USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3610
+#EXTINF:-1,TBS USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3611
+#EXTINF:-1,COMEDY CENTRAL USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3612
+#EXTINF:-1,VICE USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3613
+#EXTINF:-1,TLC USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3614
+#EXTINF:-1,HALLMARK USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3615
+#EXTINF:-1,LIFETIME USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3616
+#EXTINF:-1,UP USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3617
+#EXTINF:-1,BRAVO USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3618
+#EXTINF:-1,OWN USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3619
+#EXTINF:-1,OVATION USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3620
+#EXTINF:-1,E! USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3621
+#EXTINF:-1,DISCOVERY CHANNEL USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3622
+#EXTINF:-1,NAT GEO USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3623
+#EXTINF:-1,ID USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3624
+#EXTINF:-1,SCIENCE USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3625
+#EXTINF:-1,ANIMAL PLANET USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3626
+#EXTINF:-1,SMITHSONIAN USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3627
+#EXTINF:-1,HISTORY USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3628
+#EXTINF:-1,DESTINATION AMERICA USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3629
+#EXTINF:-1,AHC USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3630
+#EXTINF:-1,FOOD NETWORK USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3631
+#EXTINF:-1,COOKING CHANNEL USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3632
+#EXTINF:-1,TRAVEL CHANNEL USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3633
+#EXTINF:-1,HGTV USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3634
+#EXTINF:-1,DIY USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3635
+#EXTINF:-1,MOTORTREND USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3636
+#EXTINF:-1,AMC USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3637
+#EXTINF:-1,FX USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3638
+#EXTINF:-1,FXX USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3639
+#EXTINF:-1,SYFY USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3640
+#EXTINF:-1,PARAMOUNT NETWORK USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3641
+#EXTINF:-1,FXM USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3642
+#EXTINF:-1,SUNDANCE USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3643
+#EXTINF:-1,IFC USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3644
+#EXTINF:-1,SONY MOVIES USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3645
+#EXTINF:-1,HBO USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3646
+#EXTINF:-1,SHOWTIME USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3647
+#EXTINF:-1,CINEMAX USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3648
+#EXTINF:-1,STARZ USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3649
+#EXTINF:-1,EPIX USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3650
+#EXTINF:-1,INDIE PLEX USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3651
+#EXTINF:-1,THE MOVIE CHANNEL USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3652
+#EXTINF:-1,MGM USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3653
+#EXTINF:-1,CNBC USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3714
+#EXTINF:-1,ESPN News USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3654
+#EXTINF:-1,ESPN U USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3655
+#EXTINF:-1,NFL USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3656
+#EXTINF:-1,NBA USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3657
+#EXTINF:-1,MLB USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3658
+#EXTINF:-1,NHL USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3659
+#EXTINF:-1,FS1 USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3660
+#EXTINF:-1,FS2 USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3661
+#EXTINF:-1,NBC Sports USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3662
+#EXTINF:-1,CBS Sports USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3663
+#EXTINF:-1,MARQUEE Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3664
+#EXTINF:-1,MSG USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3665
+#EXTINF:-1,MASN USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3666
+#EXTINF:-1,NESN USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3667
+#EXTINF:-1,YES Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3668
+#EXTINF:-1,SportsNET New York USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3669
+#EXTINF:-1,SportsNET Southwest USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3670
+#EXTINF:-1,Bally Sports Detroit USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3671
+#EXTINF:-1,Bally Sports Ohio USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3672
+#EXTINF:-1,Root Sports USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3673
+#EXTINF:-1,Big Ten Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3674
+#EXTINF:-1,ACC Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3675
+#EXTINF:-1,Longhorn Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3676
+#EXTINF:-1,BeIN Sports USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3677
+#EXTINF:-1,BeIN Sports Xtra USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3678
+#EXTINF:-1,NBC Golf USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3679
+#EXTINF:-1,Tennis USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3680
+#EXTINF:-1,Fight Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3681
+#EXTINF:-1,WWE USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3682
+#EXTINF:-1,PAC 12 Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3687
+#EXTINF:-1,ESPN 2 USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3684
+#EXTINF:-1,NBC Sports Chicago USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3685
+#EXTINF:-1,SEC Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3686
+#EXTINF:-1,Fox Soccer Plus USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3688
+#EXTINF:-1,ESPN USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3683
 
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Testing", CGTN DOCUMENTARY
