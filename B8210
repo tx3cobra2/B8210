@@ -43,6 +43,9 @@ https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/TV3.m3u8
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/sjr34f7/cyts.png" group-title="ASTRO1",NTV7
 http://iptv.tvmalaysia.cc:80/422072/422072/8922
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+#EXTINF:-1 tvg-id="108" group-title="ASTRO1" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 #EXTINF:-1 group-title="ASTRO1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/8TV_my2018.png/revision/latest/scale-to-width-down/187?cb=20200525120403",8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 group-title="ASTRO1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest/scale-to-width-down/477?cb=20170819074656",TV9
@@ -373,6 +376,9 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 
 ///// Movie2 /////
+#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FiTdDp1.png" group-title="Movies2",24 Hour Free Movies
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Movies2",BOX FILM
 http://61.19.242.134/feed/202105171329/LC52/index.m3u8
 
@@ -660,9 +666,9 @@ http://iptv.tvmalaysia.cc:80/422072/422072/6693
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.jpg" group-title="Lifestyle",AFN
-http://iptv.tvmalaysia.cc:80/422072/422072/6693
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/afn.png" group-title="Lifestyle",Asian Food Network
 https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
 
 #EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" group-title="Lifestyle",Food Network HD 
 http://livetv2021.site:8080/9897876765/6576567/8843
