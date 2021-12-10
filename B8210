@@ -513,6 +513,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706d
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 //// Malay VOD ////
+#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="http://filmindonesia.or.id/public/upload/img/movie/primary/title/cubitcubitan.jpg",Cubit Cubitan Elvy Sukaesih indonesia klasik
+https://www.googleapis.com/drive/v3/files/1-8eKJOG22Dc4N9j-MAJ03fE5ZXYsshLK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 tvg-logo="https://content1.jdmagicbox.com/comp/jd_social/news/2020feb12/image-435292-n44ck2nc90.jpg?fit=around|210:308&crop=210:308;*,*" group-title="Wayang Melayu", JAGA POCONG (2018)
 https://www.googleapis.com/drive/v3/files/1A8eGJeRDuqtrfJL8l9eMBxf8pNVoE54D?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
@@ -532,6 +535,8 @@ https://www.googleapis.com/drive/v3/files/1yooDtRFqd0Rd11ymRt6n93VSKFNsUj8G?alt=
 https://www.googleapis.com/drive/v3/files/1IsdQJ7VWd7iiUs371KgcCfu9M8e64i8L?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 ////movie 2021////
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/cJ7EEbwRAZ6DmfFoHE9QjmBmeDU=/206x305/v2/https://flxt.tmsimg.com/assets/p33302_p_v10_ad.jpg" group-title="VOD 2021", The Haunted Mansion Disney
+https://www.googleapis.com/drive/v3/files/1-QIPgPHMuQVxU_pOSZLkuBm_ebCFShov?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/huG3721zD6YBRLYyrQ3lVeXTcPx.jpg" group-title="VOD 2021", Venom Let there be carnage 2021
 https://www.googleapis.com/drive/v3/files/1gHi7PxqUIHZPdGqby04ZJHnwvPLQPv70?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -609,6 +614,7 @@ https://www.googleapis.com/drive/v3/files/1w5ap5K4vxlzXGUJkXIvHtGZZ1TzaDZWZ?alt=
 https://www.googleapis.com/drive/v3/files/1SY6BurpJcYpBRgY8qqTfluSH9-CiKZcH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 group-title="Shinchan" tvg-logo="https://image.tmdb.org/t/p/w185/aa7X8NXBoeQfhqzJ079SN8WAJMm.jpg", Shinchan Alien Shiriri
+https://www.googleapis.com/drive/v3/files/1-6A2EewAPv1rIOnUbD756DLH3TDwn5c0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 //// HINDI VOD///
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ZD7k2wY.jpg" group-title="HINDI VOD", Bajrangi Bhaijaan (2015)
@@ -616,6 +622,10 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960996
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/3l7FGKHDanLhEI1ECdmzK9LnJrj.jpg" group-title="HINDI VOD", Radhe
 https://www.googleapis.com/drive/v3/files/1u4kMAEBmDvc7tIHwX-yYTbK6qNsakeyJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+/// Thai Movie Comedy ///
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/3l7FGKHDanLhEI1ECdmzK9LnJrj.jpg" group-title="Thai Movie Comedy", Grandmother 2016
+https://www.googleapis.com/drive/v3/files/1-Mot8cGUPpIN5N1AkxoY7qfHlE-lVVLO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 ///Classic Movie ///
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwroIl6oyw_dzWxi4tzgDSTdsroeQ_Jo7hVhtOzdYl3lwQn6bo_xKoaKXlNhZJYn3uY6w&usqp=CAU" group-title="Classic Movie", The Great Escape (1963)
