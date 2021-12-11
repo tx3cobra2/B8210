@@ -519,8 +519,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9f
 #EXTINF:-1, group-title="Wayang Melayu" tvg-logo="http://filmindonesia.or.id/public/upload/img/movie/primary/title/cubitcubitan.jpg",Cubit Cubitan Elvy Sukaesih indonesia klasik
 https://www.googleapis.com/drive/v3/files/1-8eKJOG22Dc4N9j-MAJ03fE5ZXYsshLK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
+#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="https://pics.filmaffinity.com/the_doll-684678452-mmed.jpg",The Doll Indonesia horror
+https://www.googleapis.com/drive/v3/files/1-a2UKe27bo-SNIFd1M97usOJq2iEwNb1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 tvg-logo="https://content1.jdmagicbox.com/comp/jd_social/news/2020feb12/image-435292-n44ck2nc90.jpg?fit=around|210:308&crop=210:308;*,*" group-title="Wayang Melayu", JAGA POCONG (2018)
 https://www.googleapis.com/drive/v3/files/1A8eGJeRDuqtrfJL8l9eMBxf8pNVoE54D?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="https://ww123.pencurimovies.xyz/wp-content/uploads/2021/11/eR4MDbv9lnwOXmqXPy4B7uSipUx-152x228.jpg",Prebet Lapok
+https://www.googleapis.com/drive/v3/files/1-ep8ORyZbADlBt8b3Af3DOcxy2vwiM0n?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1, group-title="Wayang Melayu" tvg-logo="https://walter.trakt.tv/images/movies/000/132/031/posters/thumb/4d035deb47.jpg.webp",Setinggan 1981
+https://www.googleapis.com/drive/v3/files/1-i0b9x-Q7-GkEwruIAZYUGi75c96Ggsq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1, group-title="Wayang Melayu" tvg-logo="https://telegra.ph/file/521f96cbc505fa6e79750.jpg",Penunggang Agama PPVHD 720p [Malay Sub]
 https://f2lpadubot.herokuapp.com/1694229264714204/Penunggang.Agama.2021.1080p.PPVHD.mkv
@@ -585,6 +594,9 @@ https://www.googleapis.com/drive/v3/files/1AZiwvsrM_KNw2h2M-PhwE27QHhqhWDme?alt=
 
 
 /// VOD ANIMASI ///
+#EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="https://img.movies2watch.tv/xxrz/250x400/279/e2/bb/e2bb2db630a54adde484fde7ccdd08df/e2bb2db630a54adde484fde7ccdd08df.jpg",Tinkerbell The Pirate fairy
+https://www.googleapis.com/drive/v3/files/1-nMz-8URZARM1XmLX1Nqo1_PNLi7iihd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KVqx7pd.jpg",A Shaun the Sheep Movie: Farmageddon (2019)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960866
 
@@ -626,9 +638,15 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960996
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/3l7FGKHDanLhEI1ECdmzK9LnJrj.jpg" group-title="HINDI VOD", Radhe
 https://www.googleapis.com/drive/v3/files/1u4kMAEBmDvc7tIHwX-yYTbK6qNsakeyJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
+#EXTINF:-1 tvg-logo="https://img.hindimovies.to/thumbnail/R/Raaz-20022.jpg" group-title="HINDI VOD", RAAZ 2002
+https://www.googleapis.com/drive/v3/files/1-gTMu0zNogomoM7XSTt66pTW0WwNh1ZC?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 /// Thai Movie Comedy ///
 #EXTINF:-1 tvg-logo="https://walter.trakt.tv/images/movies/000/316/670/posters/thumb/3024b354a6.jpg.webp" group-title="Thai Movie Comedy", Grandmother 2016
 https://www.googleapis.com/drive/v3/files/1-Mot8cGUPpIN5N1AkxoY7qfHlE-lVVLO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/N__A3jycNgo55AihL5wTpM3wLAE=/212x315/filters:quality(75)/vidio-web-prod-film/uploads/film/image_portrait/245/pee-mak-ea6ac1.jpg" group-title="Thai Movie Comedy", PEE MAK
+https://www.googleapis.com/drive/v3/files/1-duE3uiiSeWvByH_ZF4hWuzj3_CkuZS5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 ///Classic Movie ///
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwroIl6oyw_dzWxi4tzgDSTdsroeQ_Jo7hVhtOzdYl3lwQn6bo_xKoaKXlNhZJYn3uY6w&usqp=CAU" group-title="Classic Movie", The Great Escape (1963)
@@ -636,6 +654,9 @@ https://www.googleapis.com/drive/v3/files/1fRgWDK5pB1Bu0PYrbSrGcq2scBdcC5Uu?alt=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWE8esaQEjyaYnC8eErTGycdE1xTpb6RaUL6BOuGAuZpm0xznQbfZ9Ww55M5-PPpdXaZ4&usqp=CAU" group-title="Classic Movie", The Great Race (1965)
 https://p2p-ns1.sage.stream/hls/the-great-race-1965-sub/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://xxiku.com/wp-content/uploads/2021/08/3XhaLFBoj9VuNVjTmjaO39qVQIj-60x90.jpg" group-title="Classic Movie", Willow 1988
+https://www.googleapis.com/drive/v3/files/1-rcOvkmMA260q9v4yLf3PHl3KwqZm5FW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 ///// Hindi /////
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
