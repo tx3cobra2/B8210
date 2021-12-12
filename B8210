@@ -568,6 +568,9 @@ http://admin.nf21.net/go/files/18809
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY0NzgzYzctYWQwMC00MzM2LThjNGMtZjFjMWUyNzg0ZmM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" group-title="VOD 2021", Army of the Dead (2021)
 http://admin.nf21.net/go/files/19051
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMyMzQ1ODM1MF5BMl5BanBnXkFtZTcwMjE2MTQxOQ@@._V1_.jpg" group-title="VOD 2021", Oz The Great And Powerful 2013
+https://www.googleapis.com/drive/v3/files/1-zuMH3XvmEPH-5JEKyS-gzMXd36Ooz1k?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 tvg-logo="https://img.vxdn.net/p-max/200/the-patriot-6497.jpg" group-title="VOD 2021", The Patriot (2000)
 http://srv9.nf21.net/files/14-2018-06-25-b7a6f626f774070c8a902c0cba4b7196.mp4
 
@@ -647,6 +650,9 @@ https://www.googleapis.com/drive/v3/files/1-Mot8cGUPpIN5N1AkxoY7qfHlE-lVVLO?alt=
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/N__A3jycNgo55AihL5wTpM3wLAE=/212x315/filters:quality(75)/vidio-web-prod-film/uploads/film/image_portrait/245/pee-mak-ea6ac1.jpg" group-title="Thai Movie Comedy", PEE MAK
 https://www.googleapis.com/drive/v3/files/1-duE3uiiSeWvByH_ZF4hWuzj3_CkuZS5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i3.wp.com/139.99.61.225/wp-content/uploads/2020/01/qSo1HaR0vaAK8TdGZK7fA2V3xu1-60x90.jpg" group-title="Thai Movie Comedy", SOMTAM/Muay thai giant
+https://www.googleapis.com/drive/v3/files/10ADhjk350Ejd0bSwahoqhnfFE5-HpJ5H?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 ///Classic Movie ///
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwroIl6oyw_dzWxi4tzgDSTdsroeQ_Jo7hVhtOzdYl3lwQn6bo_xKoaKXlNhZJYn3uY6w&usqp=CAU" group-title="Classic Movie", The Great Escape (1963)
