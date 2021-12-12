@@ -87,6 +87,8 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO1" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
 http://iptv.tvmalaysia.cc:80/422072/422072/6730
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO1" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA2
+http://iptv.tvmalaysia.cc:80/321456/321456/6730
 
 #EXTINF:-1 group-title="ASTRO1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest/scale-to-width-down/293?cb=20190111152445",Astro Prima
 http://iptv.tvmalaysia.cc:80/422072/422072/6727
