@@ -8,8 +8,8 @@ ShamBentong ADMIN CHANNEL IKUT T&C
 
 
 
-#EXTINF:-1 tvg-id="411" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pirate_Flag_of_Jack_Rackham.svg/125px-Pirate_Flag_of_Jack_Rackham.svg.png" tvg-name="SHAMBENTONG TV" group-title="ASTRO",SHAMBENTONG TV ADMIN CHANNEL
-<!--#EXTINF:-1 tvg-id="411" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" tvg-name="SHAMBENTONG TV" group-title="ASTRO",SHAMBENTONG TV ADMIN CHANNEL
+#EXTINF:-1 tvg-id="411" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pirate_Flag_of_Jack_Rackham.svg/125px-Pirate_Flag_of_Jack_Rackham.svg.png" tvg-name="TXSHARK TV" group-title="ASTRO",TXSHARK TV ADMIN CHANNEL
+<!--#EXTINF:-1 tvg-id="411" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" tvg-name="TXSHARK TV" group-title="ASTRO",TXSHARK TV ADMIN CHANNEL
 https://liveorigin01.hbogoasia.com:8  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png", Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
@@ -637,6 +637,9 @@ https://www.googleapis.com/drive/v3/files/1SY6BurpJcYpBRgY8qqTfluSH9-CiKZcH?alt=
 https://www.googleapis.com/drive/v3/files/1-6A2EewAPv1rIOnUbD756DLH3TDwn5c0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 //// HINDI VOD///
+#EXTINF:-1 tvg-logo="https://www.uwatchfree.do/wp-content/uploads/2016/11/Mujhse-Dosti-Karoge-2002.jpg" group-title="HINDI VOD", Mujhse Dosti Karoge
+https://www.googleapis.com/drive/v3/files/10e3bmRmL4BLJz2J3KtQS0n-fTsDEqLI3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ZD7k2wY.jpg" group-title="HINDI VOD", Bajrangi Bhaijaan (2015)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960996
 
