@@ -49,8 +49,9 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8
 <!--#EXTINF:-1 group-title="ASTRO1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/8TV_my2018.png/revision/latest/scale-to-width-down/187?cb=20200525120403",8TV
 <!--http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 group-title="ASTRO1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/NewlogoTV9_%28Malaysia%29.png/revision/latest/scale-to-width-down/477?cb=20170819074656",TV9
-http://iptv.tvmalaysia.cc:80/422072/422072/7185
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+<!--http://iptv.tvmalaysia.cc:80/422072/422072/7185
+<!--http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lowyat.net/wp-content/uploads/2021/03/rtm-tv6-test-transmission-01.jpg" group-title="ASTRO1", TV6
 https://rtm7hdhbbtv.secureswiftcontent.com/Origin3/ngrp:RTM3/manifest.m3u8
 
