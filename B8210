@@ -670,6 +670,12 @@ https://p2p-ns1.sage.stream/hls/the-great-race-1965-sub/index.m3u8
 #EXTINF:-1 tvg-logo="https://xxiku.com/wp-content/uploads/2021/08/3XhaLFBoj9VuNVjTmjaO39qVQIj-60x90.jpg" group-title="Classic Movie", Willow 1988
 https://www.googleapis.com/drive/v3/files/1-rcOvkmMA260q9v4yLf3PHl3KwqZm5FW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
+#EXTINF:-1 tvg-logo="http://i2.wp.com/terbit21.co/wp-content/uploads/2019/04/5b38dfzKqUmTY2HRYrdKJ8vFWAR.jpg" group-title="Classic Movie", They Call Me Trinity 1970
+https://www.googleapis.com/drive/v3/files/1-0UKfo1wzSX2xdSJtHCABp3AncTL12j3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/oRd5Zb2MJEvBBxvyh3gVe6d4cAl.jpg" group-title="Classic Movie", Trinity Is Still My Name 1971
+https://www.googleapis.com/drive/v3/files/1-1zIppOON12iPJcIngtrfYNPJD_ZjTbw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 ///// Hindi /////
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
