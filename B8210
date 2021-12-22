@@ -1258,17 +1258,20 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 https://www.youtube.com/channel/UCHkI-mTPYoudubEVKOuo5Pw/videos
 #EXTINF:-1 tvg-id="RTM SPORT" tvg-name="RTM SPORT" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/RTM_HD_Sports.png/450px-RTM_HD_Sports.png" tvg-url="" group-title="SPORT",RTM sport
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+#EXTINF:-1 group-title="SPORT" tvg-logo = "https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png", eGG Network HD
+http://jlwmedia.xyz/play/SyP_xHPBCiN8Bs15ttY8gekAfMrq5Ou_wlZgO7Aa-Ps
 #EXTINF:-1 group-title="SPORT" tvg-logo = "https://www.dropbox.com/s/2ftc484hfwu230l/FightBox.png?dl=1", FIGHT BOX
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 <!--#EXTINF:-1 group-title="SPORT" tvg-logo = "https://www.dropbox.com/s/lz1saqscj4246qz/wwe.jpg?dl=1", WWE
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="http://static.epg.best/us/WWE.us.png" group-title="SPORT",WWE
-http://93.152.174.144:4000/play/WWE/index.m3u8
 http://iptv.tvmalaysia.cc:80/422072/422072/6849
+http://93.152.174.144:4000/play/WWE/index.m3u8
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18549
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF:-1 group-title="SPORT" tvg-logo = "https://www.dropbox.com/s/lz1saqscj4246qz/wwe.jpg?dl=1", Impact Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-
+#EXTINF:-1 group-title="SPORT" tvg-logo = "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png", Golf Channel HD
+http://jlwmedia.xyz/play/SyP_xHPBCiN8Bs15ttY8gTTx7f8F7Xirt11o2GngFWY
 #EXTINF: -1 tvg-id="801" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Astro_Arena.png/revision/latest?cb=20180622080600",801 Astro Arena
 http://jlwmedia.xyz/play/SyP_xHPBCiN8Bs15ttY8gZlLadQP96kEn9623aUGbcQ
 # http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
