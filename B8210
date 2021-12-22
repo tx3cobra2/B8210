@@ -1264,24 +1264,28 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
  
 #EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/200?cb=20210802132424",811 Astro SuperSport HD 
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170834
 # http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6708
 http://iptv.tvmalaysia.cc:80/live/737373/737373/6708.ts
 # http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
  
 #EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/812.png/revision/latest?cb=20200520222551",812 Astro SuperSport 2 HD
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170831
 # http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
 http://iptv.tvmalaysia.cc:80/live/737373/737373/6710.ts
 # http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
  
 #EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Astro_Supersport_3_2015.png/revision/latest?cb=20180622075715",813 Astro SuperSport 3 HD
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170832
 # http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6711
 http://iptv.tvmalaysia.cc:80/live/737373/737373/6711.ts
 # http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
  
 #EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Astro_Supersport_4_2015.png/revision/latest?cb=20180622080127",814 Astro SuperSport 4 HD
+http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170833
 # http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6712
 http://iptv.tvmalaysia.cc:80/live/737373/737373/6712.ts
