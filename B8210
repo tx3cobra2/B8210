@@ -58,6 +58,8 @@ https://rtm7hdhbbtv.secureswiftcontent.com/Origin3/ngrp:RTM3/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Okey" tvg-logo="https://i.ibb.co/bbVfKQT/ae.png" group-title="ASTRO1",Okey
 https://rtm2hdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8
 #EXTINF:-1 tvg-id="Awesome" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="ASTRO1",Awesome TV
+http://urtv.cc/penang043/penang043/9016
+http://iptv.tvmalaysia.cc/kl570/kl570/9016
 http://iptv.tvmalaysia.cc:80/297340/297340/9016
 http://iptv.tvmalaysia.cc:80/321456/321456/9016
 #http://iptv.tvmalaysia.cc/jalan8/jalan8/9016
@@ -89,6 +91,7 @@ http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/422072/422072/6730
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO1" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA2
+http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599230
 http://iptv.tvmalaysia.cc:80/321456/321456/6730
 
 #EXTINF:-1 group-title="ASTRO1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest/scale-to-width-down/293?cb=20190111152445",Astro Prima
@@ -110,6 +113,7 @@ http://iptv.tvmalaysia.cc:80/penang189/penang189/6713
 #EXTINF:-1 group-title="ASTRO1" tvg-logo="https://i.postimg.cc/LXvjfPgm/download-91.jpg",ASTRO Rania HD
 http://iptv.tvmalaysia.cc:80/penang189/penang189/6729
 #EXTINF:-1 group-title="ASTRO1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Naura_Channel_125_Logo.png/revision/latest/scale-to-width-down/300?cb=20190108161305",Naura HD
+http://jlwmedia.xyz/play/SyP_xHPBCiN8Bs15ttY8gcLSEAwW4YajEZe4L7s_ezY
 http://iptv.tvmalaysia.cc:80/422072/422072/6724
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroHello.my" tvg-name="Hello" tvg-logo="https://i.ibb.co/HqZSS6q/gwse.png" group-title="ASTRO1",Hello
