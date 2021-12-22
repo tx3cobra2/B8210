@@ -400,7 +400,8 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 
 ///// Movie2 /////
-
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png" group-title="Movies2",Paramount Network HD
+http://jlwmedia.xyz/play/SyP_xHPBCiN8Bs15ttY8gYANLrXiP2aT10MalvSkUtc
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="Movies2",MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
@@ -422,8 +423,6 @@ https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Movies2",BOX FILM
 http://61.19.242.134/feed/202105171329/LC52/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="SCREAMFEST" tvg-name="SCREAMFEST" tvg-logo="" group-title="Movies2",SCREAMFEST
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
