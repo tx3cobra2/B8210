@@ -66,6 +66,9 @@ http://50.7.17.176:61980/myplay/c_58014/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&ex
 https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/DramaSangat.m3u8
 #EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Alhijrah" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="ASTRO1",Alhijrah
 http://iptv.tvmalaysia.cc:80/422072/422072/6834
+
+#EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Alhijrah" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="ASTRO1",Alhijrah4
+http://202.73.9.10:1935/mylive/smil:tvalhijrah_all.smil/chunklist_w2043333524_b878000_sleng.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ODk2ZmI5ZjctOWE3MS0zZmQ5LTlmNzktZGE1NzgzM2E2NGFk
 #EXTINF:-1 group-title="ASTRO1" tvg-id="Al-Hijrah" tvg-chno="114" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",114 TV Alhijrah
