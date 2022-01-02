@@ -428,6 +428,9 @@ https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Movies2",BOX FILM
 http://61.19.242.134/feed/202105171329/LC52/index.m3u8
 
+#EXTINF:-1 tvg-id="SCREAMFEST" tvg-name="Blue Ant Extreme" tvg-logo="" group-title="Movies2",Blue Ant Extreme
+http://iptv.tvmalaysia.cc:80/422072/422072/8861
+
 #EXTINF:-1 tvg-id="SCREAMFEST" tvg-name="SCREAMFEST" tvg-logo="" group-title="Movies2",SCREAMFEST
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 
