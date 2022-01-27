@@ -39,6 +39,7 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="ASTRO1",TV3
+http://iptv.tvmalaysia.cc:80/422072/422072/7266
 https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/TV3.m3u8
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/sjr34f7/cyts.png" group-title="ASTRO1",NTV7
 http://iptv.tvmalaysia.cc:80/422072/422072/8922
