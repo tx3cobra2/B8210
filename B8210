@@ -67,6 +67,7 @@ https://rtm7hdhbbtv.secureswiftcontent.com/Origin3/ngrp:RTM3/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Okey" tvg-logo="https://i.ibb.co/bbVfKQT/ae.png" group-title="ASTRO1",Okey
 https://rtm2hdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8
 #EXTINF:-1 tvg-id="Awesome" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="ASTRO1",Awesome TV
+http://iptv12k.com:35461/8022011502/123456/743
 http://urtv.cc/penang043/penang043/9016
 http://iptv.tvmalaysia.cc/kl570/kl570/9016
 http://iptv.tvmalaysia.cc:80/297340/297340/9016
@@ -139,10 +140,50 @@ http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 #EXTINF:-1 tvg-id="TVS" tvg-name="TVS" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg"group-title="ASTRO1",TVS
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Astro_Box_Office_Movies_2007.png" group-title="ASTRO1" ,Astro Boxoffice BollyOne
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Astro_Box_Office_Movies_2007.png" group-title="ASTRO2" ,Astro Boxoffice BollyOne
 http://iptv.tvmalaysia.cc:80/422072/422072/6754
 http://50.7.161.82:8278/streams/d/bollyone_pye/playlist.m3u8
 
+-astro2-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="ASTRO2",ASTRO RIA
+http://linears-playback.astro.com.my/vsg/21_YiP04oA56TTwUKTsw9bZfMogOk6Y-Fa_QUcg0tJDdA=Ox-x/dash-wv/jitp-linearwm/1004/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
+#EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="ASTRO2",ASTRO WARNA
+http://linears-playback.astro.com.my/vsg/21_YiP04oA56TTwUKTsw9bZfMogOk6Y-Fa_QUcg0tJDdA=Ox-x/dash-wv/jitp-linearwm/2402/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
+#EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="ASTRO2",ASTRO CITRA
+http://linears-playback.astro.com.my/vsg/21_YiP04oA56TTwUKTsw9bZfMogOk6Y-Fa_QUcg0tJDdA=Ox-x/dash-wv/jitp-linearwm/2700/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
+#EXTINF:-1 tvg-id="106" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="ASTRO2",ASTRO OASIS
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
+#EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="ASTRO2",ASTRO PRIMA
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71
+#EXTINF:-1 tvg-id="113" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png" group-title="ASTRO2",ASTRO AURA
+http://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8
+#EXTINF:-1 tvg-id="112" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="ASTRO2",ASTRO RANIA
+http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
+#EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="ASTRO2",BOO
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
 #EXTINF: -1 tvg-id="kbs.world.my" tvg-name="KBS World_A" tvg-logo="https://i.ibb.co/2sLJBHR/KBS.png" group-title="KOREA", KBS World  FHD
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309066025
