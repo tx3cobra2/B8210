@@ -539,6 +539,17 @@ http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Movies3",MOVIES GROUP 8
 https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Movies3",MOVIES 1
+http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Movies3",MOVIES 2
+https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Movies3",MOVIES 3
+http://tx2play1.douyucdn.cn/live/562225rV4UNAU64f_4000p.xs?uuid=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Movies3",MOVIES 4
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000744/150/index.m3u8?&encrypt=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="Movies3",MOVIES 5
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010211/150/01.m3u8?&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=34118fd72bb9dd3695e667df26df015c
+
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium SD" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="Movies3",Cable Movie 2
 http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel/chunklist_w1127755900.m3u8
 
