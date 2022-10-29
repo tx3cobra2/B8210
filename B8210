@@ -37,8 +37,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=
 <!--https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 <!--http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 group-title="ASTRO1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/102_300.png/revision/latest/scale-to-width-down/300?cb=20160501084045",TV2
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
+<!--https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+<!--http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="ASTRO1",TV3
 <!--https://mediahomes.github.io/assets/my/ch_tv3.m3u8|Referer=https://www.dailymotion.com
 <!--http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
