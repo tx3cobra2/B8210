@@ -35,7 +35,7 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065984
 <!--#EXTINF:-1 group-title="ASTRO1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest/scale-to-width-down/656?cb=20200525153311",TV1
 <!--https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 <!--http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
+#EXTINF:-1 tvg-id="TV1" group-title="ASTRO1" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=389baefb18db84b8f62b1bddfda5c810&key=db6410d5d69b60fb66208f61cd4bef44
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
