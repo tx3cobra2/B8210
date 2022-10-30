@@ -43,13 +43,13 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="ASTRO1",TV3
 http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
 https://tvmalaysiaonline.xyz:5443/LiveApp/streams/049308573816025645291571.m3u8
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
 https://mediahomes.github.io/assets/my/ch_tv3.m3u8|Referer=https://www.dailymotion.com
 <!--http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 <!--https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 <!--http://iptv.tvmalaysia.cc:80/422072/422072/7266
 <!--https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/TV3.m3u8
 <!--#EXTINF:-1 group-title="ASTRO1" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3
+<!--https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
 <!--https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 
